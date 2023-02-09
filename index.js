@@ -8,12 +8,7 @@ const disbursement = require('./routes/disbursement')
 const PORT = process.env.PORT
 
 const app = express()
-app.set('view engine', 'ejs');
 app.use(cors())
-
-app.use('/', (req, res) => {
-  res.render('index')
-})
 
 app.use('/disbursement', auth, disbursement)
 
