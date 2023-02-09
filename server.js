@@ -1,13 +1,11 @@
 require('dotenv').config()
 const express = require('express')
 const path = require('path')
-const cors = require('cors')
 const api = require('./api')
 
 const PORT = process.env.PORT
 
 const app = express()
-app.use(cors())
 app.use(api)
 
 app.get('/', function (req, res) {
