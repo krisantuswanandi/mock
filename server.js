@@ -1,16 +1,18 @@
 require('dotenv').config()
 const express = require('express')
+const path = require('path')
 const cors = require('cors')
-
-const auth = require('./middlewares/auth')
-const disbursement = require('./routes/disbursement')
+const api = require('./api')
 
 const PORT = process.env.PORT
 
 const app = express()
 app.use(cors())
+app.use(api)
 
-app.use('/api/disbursement', auth, disbursement)
+app.get('/', function (req, res) {
+  res.sendFile(path.join(__dirname, 'public/index.html'))
+})
 
 app.listen(PORT, function () {
   console.log(`Listening on port ${PORT}`)
