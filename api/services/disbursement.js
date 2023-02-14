@@ -7,14 +7,25 @@ const router = express.Router()
 
 router.get('/', function (req, res) {
   const status = req.query.status_code
+  const search = req.query.search
   let records = disbursements
   let totalItems = 0
-  
+
   // filter
   if (status) {
     const statuses = status.split(',')
     records = disbursements.filter(d => statuses.includes(d.last_status))
     totalItems = records.length
+  }
+
+  // search
+  if (search) {
+    records = records.filter(d => {
+      return (
+        d.external_id.toLowerCase().includes(search.toLowerCase()) ||
+        d.referral_affiliate.affiliate_name.toLowerCase().includes(search.toLowerCase())
+      )
+    })
   }
 
   // page
