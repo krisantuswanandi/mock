@@ -1,0 +1,1820 @@
+[
+  {
+    "id": 1,
+    "conversion_id": 21234750,
+    "company_id": 67693,
+    "sso_company_id": "212a21bd-d20a-4f22-a545-26ca789241e7",
+    "external_id": "SP-321001",
+    "affiliate_address": "jakarta",
+    "total_amount": 123000,
+    "source": "zoho",
+    "package": "Enterprise",
+    "subcription_period_in_months": 3,
+    "company_name": "Lead A",
+    "tax_implies": 0.025,
+    "commission_before_tax": 22162,
+    "commission_tax": 554,
+    "commission_nett": 21608,
+    "commission_type": "regular",
+    "notes": "",
+    "last_sync_at": "2023-01-18 17:10:34.05894",
+    "last_status": "need_tax_review",
+    "created_at": "2023-01-18 17:10:34.05894",
+    "updated_at": "2023-01-18 17:10:34.05894",
+    "disbursement_history": [
+      {
+        "status_code": "need_tax_review",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-18 17:10:34.05894"
+      },
+      {
+        "status_code": "tax_approved",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-19 17:10:34.05894"
+      }
+    ],
+    "referral_affiliate": {
+      "id": 123,
+      "affiliate_id": "uatqontak2",
+      "affiliate_name": "Agent Tanpa Jenis NPWP",
+      "affiliate_bank_code": "BCA",
+      "affiliate_bank_account_number": "4332424324",
+      "affiliate_identity_type": "KTP",
+      "affiliate_identity_no": "3525015201880002"
+    },
+    "referral_program": {
+      "id": 123,
+      "program_id": "qontak-referral-program",
+      "program_title": "Qontak Referral Program"
+    }
+  },
+  {
+    "id": 2,
+    "conversion_id": 21234750,
+    "company_id": 67693,
+    "sso_company_id": "212a21bd-d20a-4f22-a545-26ca789241e7",
+    "external_id": "SP-321001",
+    "affiliate_address": "jakarta",
+    "total_amount": 123000,
+    "source": "zoho",
+    "package": "Enterprise",
+    "subcription_period_in_months": 3,
+    "company_name": "Lead A",
+    "tax_implies": 0.025,
+    "commission_before_tax": 22162,
+    "commission_tax": 554,
+    "commission_nett": 21608,
+    "commission_type": "regular",
+    "notes": "",
+    "last_sync_at": "2023-01-18 17:10:34.05894",
+    "last_status": "need_tax_review",
+    "created_at": "2023-01-18 17:10:34.05894",
+    "updated_at": "2023-01-18 17:10:34.05894",
+    "disbursement_history": [
+      {
+        "status_code": "need_tax_review",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-18 17:10:34.05894"
+      },
+      {
+        "status_code": "tax_approved",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-19 17:10:34.05894"
+      }
+    ],
+    "referral_affiliate": {
+      "id": 123,
+      "affiliate_id": "uatqontak2",
+      "affiliate_name": "Agent Tanpa Jenis NPWP",
+      "affiliate_bank_code": "BCA",
+      "affiliate_bank_account_number": "4332424324",
+      "affiliate_identity_type": "KTP",
+      "affiliate_identity_no": "3525015201880002"
+    },
+    "referral_program": {
+      "id": 123,
+      "program_id": "qontak-referral-program",
+      "program_title": "Qontak Referral Program"
+    }
+  },
+  {
+    "id": 3,
+    "conversion_id": 21234750,
+    "company_id": 67693,
+    "sso_company_id": "212a21bd-d20a-4f22-a545-26ca789241e7",
+    "external_id": "SP-321001",
+    "affiliate_address": "jakarta",
+    "total_amount": 123000,
+    "source": "zoho",
+    "package": "Enterprise",
+    "subcription_period_in_months": 3,
+    "company_name": "Lead A",
+    "tax_implies": 0.025,
+    "commission_before_tax": 22162,
+    "commission_tax": 554,
+    "commission_nett": 21608,
+    "commission_type": "regular",
+    "notes": "",
+    "last_sync_at": "2023-01-18 17:10:34.05894",
+    "last_status": "need_tax_review",
+    "created_at": "2023-01-18 17:10:34.05894",
+    "updated_at": "2023-01-18 17:10:34.05894",
+    "disbursement_history": [
+      {
+        "status_code": "need_tax_review",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-18 17:10:34.05894"
+      },
+      {
+        "status_code": "tax_approved",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-19 17:10:34.05894"
+      }
+    ],
+    "referral_affiliate": {
+      "id": 123,
+      "affiliate_id": "uatqontak2",
+      "affiliate_name": "Agent Tanpa Jenis NPWP",
+      "affiliate_bank_code": "BCA",
+      "affiliate_bank_account_number": "4332424324",
+      "affiliate_identity_type": "KTP",
+      "affiliate_identity_no": "3525015201880002"
+    },
+    "referral_program": {
+      "id": 123,
+      "program_id": "qontak-referral-program",
+      "program_title": "Qontak Referral Program"
+    }
+  },
+  {
+    "id": 4,
+    "conversion_id": 21234750,
+    "company_id": 67693,
+    "sso_company_id": "212a21bd-d20a-4f22-a545-26ca789241e7",
+    "external_id": "SP-321001",
+    "affiliate_address": "jakarta",
+    "total_amount": 123000,
+    "source": "zoho",
+    "package": "Enterprise",
+    "subcription_period_in_months": 3,
+    "company_name": "Lead A",
+    "tax_implies": 0.025,
+    "commission_before_tax": 22162,
+    "commission_tax": 554,
+    "commission_nett": 21608,
+    "commission_type": "regular",
+    "notes": "",
+    "last_sync_at": "2023-01-18 17:10:34.05894",
+    "last_status": "need_tax_review",
+    "created_at": "2023-01-18 17:10:34.05894",
+    "updated_at": "2023-01-18 17:10:34.05894",
+    "disbursement_history": [
+      {
+        "status_code": "need_tax_review",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-18 17:10:34.05894"
+      },
+      {
+        "status_code": "tax_approved",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-19 17:10:34.05894"
+      }
+    ],
+    "referral_affiliate": {
+      "id": 123,
+      "affiliate_id": "uatqontak2",
+      "affiliate_name": "Agent Tanpa Jenis NPWP",
+      "affiliate_bank_code": "BCA",
+      "affiliate_bank_account_number": "4332424324",
+      "affiliate_identity_type": "KTP",
+      "affiliate_identity_no": "3525015201880002"
+    },
+    "referral_program": {
+      "id": 123,
+      "program_id": "qontak-referral-program",
+      "program_title": "Qontak Referral Program"
+    }
+  },
+  {
+    "id": 5,
+    "conversion_id": 21234750,
+    "company_id": 67693,
+    "sso_company_id": "212a21bd-d20a-4f22-a545-26ca789241e7",
+    "external_id": "SP-321001",
+    "affiliate_address": "jakarta",
+    "total_amount": 123000,
+    "source": "zoho",
+    "package": "Enterprise",
+    "subcription_period_in_months": 3,
+    "company_name": "Lead A",
+    "tax_implies": 0.025,
+    "commission_before_tax": 22162,
+    "commission_tax": 554,
+    "commission_nett": 21608,
+    "commission_type": "regular",
+    "notes": "",
+    "last_sync_at": "2023-01-18 17:10:34.05894",
+    "last_status": "need_tax_review",
+    "created_at": "2023-01-18 17:10:34.05894",
+    "updated_at": "2023-01-18 17:10:34.05894",
+    "disbursement_history": [
+      {
+        "status_code": "need_tax_review",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-18 17:10:34.05894"
+      },
+      {
+        "status_code": "tax_approved",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-19 17:10:34.05894"
+      }
+    ],
+    "referral_affiliate": {
+      "id": 123,
+      "affiliate_id": "uatqontak2",
+      "affiliate_name": "Agent Tanpa Jenis NPWP",
+      "affiliate_bank_code": "BCA",
+      "affiliate_bank_account_number": "4332424324",
+      "affiliate_identity_type": "KTP",
+      "affiliate_identity_no": "3525015201880002"
+    },
+    "referral_program": {
+      "id": 123,
+      "program_id": "qontak-referral-program",
+      "program_title": "Qontak Referral Program"
+    }
+  },
+  {
+    "id": 6,
+    "conversion_id": 21234750,
+    "company_id": 67693,
+    "sso_company_id": "212a21bd-d20a-4f22-a545-26ca789241e7",
+    "external_id": "SP-321001",
+    "affiliate_address": "jakarta",
+    "total_amount": 123000,
+    "source": "zoho",
+    "package": "Enterprise",
+    "subcription_period_in_months": 3,
+    "company_name": "Lead A",
+    "tax_implies": 0.025,
+    "commission_before_tax": 22162,
+    "commission_tax": 554,
+    "commission_nett": 21608,
+    "commission_type": "regular",
+    "notes": "",
+    "last_sync_at": "2023-01-18 17:10:34.05894",
+    "last_status": "need_tax_review",
+    "created_at": "2023-01-18 17:10:34.05894",
+    "updated_at": "2023-01-18 17:10:34.05894",
+    "disbursement_history": [
+      {
+        "status_code": "need_tax_review",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-18 17:10:34.05894"
+      },
+      {
+        "status_code": "tax_approved",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-19 17:10:34.05894"
+      }
+    ],
+    "referral_affiliate": {
+      "id": 123,
+      "affiliate_id": "uatqontak2",
+      "affiliate_name": "Agent Tanpa Jenis NPWP",
+      "affiliate_bank_code": "BCA",
+      "affiliate_bank_account_number": "4332424324",
+      "affiliate_identity_type": "KTP",
+      "affiliate_identity_no": "3525015201880002"
+    },
+    "referral_program": {
+      "id": 123,
+      "program_id": "qontak-referral-program",
+      "program_title": "Qontak Referral Program"
+    }
+  },
+  {
+    "id": 7,
+    "conversion_id": 21234750,
+    "company_id": 67693,
+    "sso_company_id": "212a21bd-d20a-4f22-a545-26ca789241e7",
+    "external_id": "SP-321001",
+    "affiliate_address": "jakarta",
+    "total_amount": 123000,
+    "source": "zoho",
+    "package": "Enterprise",
+    "subcription_period_in_months": 3,
+    "company_name": "Lead A",
+    "tax_implies": 0.025,
+    "commission_before_tax": 22162,
+    "commission_tax": 554,
+    "commission_nett": 21608,
+    "commission_type": "regular",
+    "notes": "",
+    "last_sync_at": "2023-01-18 17:10:34.05894",
+    "last_status": "need_tax_review",
+    "created_at": "2023-01-18 17:10:34.05894",
+    "updated_at": "2023-01-18 17:10:34.05894",
+    "disbursement_history": [
+      {
+        "status_code": "need_tax_review",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-18 17:10:34.05894"
+      },
+      {
+        "status_code": "tax_approved",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-19 17:10:34.05894"
+      }
+    ],
+    "referral_affiliate": {
+      "id": 123,
+      "affiliate_id": "uatqontak2",
+      "affiliate_name": "Agent Tanpa Jenis NPWP",
+      "affiliate_bank_code": "BCA",
+      "affiliate_bank_account_number": "4332424324",
+      "affiliate_identity_type": "KTP",
+      "affiliate_identity_no": "3525015201880002"
+    },
+    "referral_program": {
+      "id": 123,
+      "program_id": "qontak-referral-program",
+      "program_title": "Qontak Referral Program"
+    }
+  },
+  {
+    "id": 8,
+    "conversion_id": 21234750,
+    "company_id": 67693,
+    "sso_company_id": "212a21bd-d20a-4f22-a545-26ca789241e7",
+    "external_id": "SP-321001",
+    "affiliate_address": "jakarta",
+    "total_amount": 123000,
+    "source": "zoho",
+    "package": "Enterprise",
+    "subcription_period_in_months": 3,
+    "company_name": "Lead A",
+    "tax_implies": 0.025,
+    "commission_before_tax": 22162,
+    "commission_tax": 554,
+    "commission_nett": 21608,
+    "commission_type": "regular",
+    "notes": "",
+    "last_sync_at": "2023-01-18 17:10:34.05894",
+    "last_status": "tax_rejected",
+    "created_at": "2023-01-18 17:10:34.05894",
+    "updated_at": "2023-01-18 17:10:34.05894",
+    "disbursement_history": [
+      {
+        "status_code": "need_tax_review",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-18 17:10:34.05894"
+      },
+      {
+        "status_code": "tax_approved",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-19 17:10:34.05894"
+      }
+    ],
+    "referral_affiliate": {
+      "id": 123,
+      "affiliate_id": "uatqontak2",
+      "affiliate_name": "Agent Tanpa Jenis NPWP",
+      "affiliate_bank_code": "BCA",
+      "affiliate_bank_account_number": "4332424324",
+      "affiliate_identity_type": "KTP",
+      "affiliate_identity_no": "3525015201880002"
+    },
+    "referral_program": {
+      "id": 123,
+      "program_id": "qontak-referral-program",
+      "program_title": "Qontak Referral Program"
+    }
+  },
+  {
+    "id": 9,
+    "conversion_id": 21234750,
+    "company_id": 67693,
+    "sso_company_id": "212a21bd-d20a-4f22-a545-26ca789241e7",
+    "external_id": "SP-321001",
+    "affiliate_address": "jakarta",
+    "total_amount": 123000,
+    "source": "zoho",
+    "package": "Enterprise",
+    "subcription_period_in_months": 3,
+    "company_name": "Lead A",
+    "tax_implies": 0.025,
+    "commission_before_tax": 22162,
+    "commission_tax": 554,
+    "commission_nett": 21608,
+    "commission_type": "regular",
+    "notes": "",
+    "last_sync_at": "2023-01-18 17:10:34.05894",
+    "last_status": "tax_rejected",
+    "created_at": "2023-01-18 17:10:34.05894",
+    "updated_at": "2023-01-18 17:10:34.05894",
+    "disbursement_history": [
+      {
+        "status_code": "need_tax_review",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-18 17:10:34.05894"
+      },
+      {
+        "status_code": "tax_approved",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-19 17:10:34.05894"
+      }
+    ],
+    "referral_affiliate": {
+      "id": 123,
+      "affiliate_id": "uatqontak2",
+      "affiliate_name": "Agent Tanpa Jenis NPWP",
+      "affiliate_bank_code": "BCA",
+      "affiliate_bank_account_number": "4332424324",
+      "affiliate_identity_type": "KTP",
+      "affiliate_identity_no": "3525015201880002"
+    },
+    "referral_program": {
+      "id": 123,
+      "program_id": "qontak-referral-program",
+      "program_title": "Qontak Referral Program"
+    }
+  },
+  {
+    "id": 10,
+    "conversion_id": 21234750,
+    "company_id": 67693,
+    "sso_company_id": "212a21bd-d20a-4f22-a545-26ca789241e7",
+    "external_id": "SP-321001",
+    "affiliate_address": "jakarta",
+    "total_amount": 123000,
+    "source": "zoho",
+    "package": "Enterprise",
+    "subcription_period_in_months": 3,
+    "company_name": "Lead A",
+    "tax_implies": 0.025,
+    "commission_before_tax": 22162,
+    "commission_tax": 554,
+    "commission_nett": 21608,
+    "commission_type": "regular",
+    "notes": "",
+    "last_sync_at": "2023-01-18 17:10:34.05894",
+    "last_status": "tax_rejected",
+    "created_at": "2023-01-18 17:10:34.05894",
+    "updated_at": "2023-01-18 17:10:34.05894",
+    "disbursement_history": [
+      {
+        "status_code": "need_tax_review",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-18 17:10:34.05894"
+      },
+      {
+        "status_code": "tax_approved",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-19 17:10:34.05894"
+      }
+    ],
+    "referral_affiliate": {
+      "id": 123,
+      "affiliate_id": "uatqontak2",
+      "affiliate_name": "Agent Tanpa Jenis NPWP",
+      "affiliate_bank_code": "BCA",
+      "affiliate_bank_account_number": "4332424324",
+      "affiliate_identity_type": "KTP",
+      "affiliate_identity_no": "3525015201880002"
+    },
+    "referral_program": {
+      "id": 123,
+      "program_id": "qontak-referral-program",
+      "program_title": "Qontak Referral Program"
+    }
+  },
+  {
+    "id": 11,
+    "conversion_id": 21234750,
+    "company_id": 67693,
+    "sso_company_id": "212a21bd-d20a-4f22-a545-26ca789241e7",
+    "external_id": "SP-321001",
+    "affiliate_address": "jakarta",
+    "total_amount": 123000,
+    "source": "zoho",
+    "package": "Enterprise",
+    "subcription_period_in_months": 3,
+    "company_name": "Lead A",
+    "tax_implies": 0.025,
+    "commission_before_tax": 22162,
+    "commission_tax": 554,
+    "commission_nett": 21608,
+    "commission_type": "regular",
+    "notes": "",
+    "last_sync_at": "2023-01-18 17:10:34.05894",
+    "last_status": "tax_rejected",
+    "created_at": "2023-01-18 17:10:34.05894",
+    "updated_at": "2023-01-18 17:10:34.05894",
+    "disbursement_history": [
+      {
+        "status_code": "need_tax_review",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-18 17:10:34.05894"
+      },
+      {
+        "status_code": "tax_approved",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-19 17:10:34.05894"
+      }
+    ],
+    "referral_affiliate": {
+      "id": 123,
+      "affiliate_id": "uatqontak2",
+      "affiliate_name": "Agent Tanpa Jenis NPWP",
+      "affiliate_bank_code": "BCA",
+      "affiliate_bank_account_number": "4332424324",
+      "affiliate_identity_type": "KTP",
+      "affiliate_identity_no": "3525015201880002"
+    },
+    "referral_program": {
+      "id": 123,
+      "program_id": "qontak-referral-program",
+      "program_title": "Qontak Referral Program"
+    }
+  },
+  {
+    "id": 12,
+    "conversion_id": 21234750,
+    "company_id": 67693,
+    "sso_company_id": "212a21bd-d20a-4f22-a545-26ca789241e7",
+    "external_id": "SP-321001",
+    "affiliate_address": "jakarta",
+    "total_amount": 123000,
+    "source": "zoho",
+    "package": "Enterprise",
+    "subcription_period_in_months": 3,
+    "company_name": "Lead A",
+    "tax_implies": 0.025,
+    "commission_before_tax": 22162,
+    "commission_tax": 554,
+    "commission_nett": 21608,
+    "commission_type": "regular",
+    "notes": "",
+    "last_sync_at": "2023-01-18 17:10:34.05894",
+    "last_status": "tax_rejected",
+    "created_at": "2023-01-18 17:10:34.05894",
+    "updated_at": "2023-01-18 17:10:34.05894",
+    "disbursement_history": [
+      {
+        "status_code": "need_tax_review",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-18 17:10:34.05894"
+      },
+      {
+        "status_code": "tax_approved",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-19 17:10:34.05894"
+      }
+    ],
+    "referral_affiliate": {
+      "id": 123,
+      "affiliate_id": "uatqontak2",
+      "affiliate_name": "Agent Tanpa Jenis NPWP",
+      "affiliate_bank_code": "BCA",
+      "affiliate_bank_account_number": "4332424324",
+      "affiliate_identity_type": "KTP",
+      "affiliate_identity_no": "3525015201880002"
+    },
+    "referral_program": {
+      "id": 123,
+      "program_id": "qontak-referral-program",
+      "program_title": "Qontak Referral Program"
+    }
+  },
+  {
+    "id": 13,
+    "conversion_id": 21234750,
+    "company_id": 67693,
+    "sso_company_id": "212a21bd-d20a-4f22-a545-26ca789241e7",
+    "external_id": "SP-321001",
+    "affiliate_address": "jakarta",
+    "total_amount": 123000,
+    "source": "zoho",
+    "package": "Enterprise",
+    "subcription_period_in_months": 3,
+    "company_name": "Lead A",
+    "tax_implies": 0.025,
+    "commission_before_tax": 22162,
+    "commission_tax": 554,
+    "commission_nett": 21608,
+    "commission_type": "regular",
+    "notes": "",
+    "last_sync_at": "2023-01-18 17:10:34.05894",
+    "last_status": "tax_rejected",
+    "created_at": "2023-01-18 17:10:34.05894",
+    "updated_at": "2023-01-18 17:10:34.05894",
+    "disbursement_history": [
+      {
+        "status_code": "need_tax_review",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-18 17:10:34.05894"
+      },
+      {
+        "status_code": "tax_approved",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-19 17:10:34.05894"
+      }
+    ],
+    "referral_affiliate": {
+      "id": 123,
+      "affiliate_id": "uatqontak2",
+      "affiliate_name": "Agent Tanpa Jenis NPWP",
+      "affiliate_bank_code": "BCA",
+      "affiliate_bank_account_number": "4332424324",
+      "affiliate_identity_type": "KTP",
+      "affiliate_identity_no": "3525015201880002"
+    },
+    "referral_program": {
+      "id": 123,
+      "program_id": "qontak-referral-program",
+      "program_title": "Qontak Referral Program"
+    }
+  },
+  {
+    "id": 14,
+    "conversion_id": 21234750,
+    "company_id": 67693,
+    "sso_company_id": "212a21bd-d20a-4f22-a545-26ca789241e7",
+    "external_id": "SP-321001",
+    "affiliate_address": "jakarta",
+    "total_amount": 123000,
+    "source": "zoho",
+    "package": "Enterprise",
+    "subcription_period_in_months": 3,
+    "company_name": "Lead A",
+    "tax_implies": 0.025,
+    "commission_before_tax": 22162,
+    "commission_tax": 554,
+    "commission_nett": 21608,
+    "commission_type": "regular",
+    "notes": "",
+    "last_sync_at": "2023-01-18 17:10:34.05894",
+    "last_status": "need_tax_review",
+    "created_at": "2023-01-18 17:10:34.05894",
+    "updated_at": "2023-01-18 17:10:34.05894",
+    "disbursement_history": [
+      {
+        "status_code": "need_tax_review",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-18 17:10:34.05894"
+      },
+      {
+        "status_code": "tax_approved",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-19 17:10:34.05894"
+      }
+    ],
+    "referral_affiliate": {
+      "id": 123,
+      "affiliate_id": "uatqontak2",
+      "affiliate_name": "Agent Tanpa Jenis NPWP",
+      "affiliate_bank_code": "BCA",
+      "affiliate_bank_account_number": "4332424324",
+      "affiliate_identity_type": "KTP",
+      "affiliate_identity_no": "3525015201880002"
+    },
+    "referral_program": {
+      "id": 123,
+      "program_id": "qontak-referral-program",
+      "program_title": "Qontak Referral Program"
+    }
+  },
+  {
+    "id": 15,
+    "conversion_id": 21234750,
+    "company_id": 67693,
+    "sso_company_id": "212a21bd-d20a-4f22-a545-26ca789241e7",
+    "external_id": "SP-321001",
+    "affiliate_address": "jakarta",
+    "total_amount": 123000,
+    "source": "zoho",
+    "package": "Enterprise",
+    "subcription_period_in_months": 3,
+    "company_name": "Lead A",
+    "tax_implies": 0.025,
+    "commission_before_tax": 22162,
+    "commission_tax": 554,
+    "commission_nett": 21608,
+    "commission_type": "regular",
+    "notes": "",
+    "last_sync_at": "2023-01-18 17:10:34.05894",
+    "last_status": "need_tax_review",
+    "created_at": "2023-01-18 17:10:34.05894",
+    "updated_at": "2023-01-18 17:10:34.05894",
+    "disbursement_history": [
+      {
+        "status_code": "need_tax_review",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-18 17:10:34.05894"
+      },
+      {
+        "status_code": "tax_approved",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-19 17:10:34.05894"
+      }
+    ],
+    "referral_affiliate": {
+      "id": 123,
+      "affiliate_id": "uatqontak2",
+      "affiliate_name": "Agent Tanpa Jenis NPWP",
+      "affiliate_bank_code": "BCA",
+      "affiliate_bank_account_number": "4332424324",
+      "affiliate_identity_type": "KTP",
+      "affiliate_identity_no": "3525015201880002"
+    },
+    "referral_program": {
+      "id": 123,
+      "program_id": "qontak-referral-program",
+      "program_title": "Qontak Referral Program"
+    }
+  },
+  {
+    "id": 16,
+    "conversion_id": 21234750,
+    "company_id": 67693,
+    "sso_company_id": "212a21bd-d20a-4f22-a545-26ca789241e7",
+    "external_id": "SP-321001",
+    "affiliate_address": "jakarta",
+    "total_amount": 123000,
+    "source": "zoho",
+    "package": "Enterprise",
+    "subcription_period_in_months": 3,
+    "company_name": "Lead A",
+    "tax_implies": 0.025,
+    "commission_before_tax": 22162,
+    "commission_tax": 554,
+    "commission_nett": 21608,
+    "commission_type": "regular",
+    "notes": "",
+    "last_sync_at": "2023-01-18 17:10:34.05894",
+    "last_status": "need_tax_review",
+    "created_at": "2023-01-18 17:10:34.05894",
+    "updated_at": "2023-01-18 17:10:34.05894",
+    "disbursement_history": [
+      {
+        "status_code": "need_tax_review",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-18 17:10:34.05894"
+      },
+      {
+        "status_code": "tax_approved",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-19 17:10:34.05894"
+      }
+    ],
+    "referral_affiliate": {
+      "id": 123,
+      "affiliate_id": "uatqontak2",
+      "affiliate_name": "Agent Tanpa Jenis NPWP",
+      "affiliate_bank_code": "BCA",
+      "affiliate_bank_account_number": "4332424324",
+      "affiliate_identity_type": "KTP",
+      "affiliate_identity_no": "3525015201880002"
+    },
+    "referral_program": {
+      "id": 123,
+      "program_id": "qontak-referral-program",
+      "program_title": "Qontak Referral Program"
+    }
+  },
+  {
+    "id": 17,
+    "conversion_id": 21234750,
+    "company_id": 67693,
+    "sso_company_id": "212a21bd-d20a-4f22-a545-26ca789241e7",
+    "external_id": "SP-321001",
+    "affiliate_address": "jakarta",
+    "total_amount": 123000,
+    "source": "zoho",
+    "package": "Enterprise",
+    "subcription_period_in_months": 3,
+    "company_name": "Lead A",
+    "tax_implies": 0.025,
+    "commission_before_tax": 22162,
+    "commission_tax": 554,
+    "commission_nett": 21608,
+    "commission_type": "regular",
+    "notes": "",
+    "last_sync_at": "2023-01-18 17:10:34.05894",
+    "last_status": "need_tax_review",
+    "created_at": "2023-01-18 17:10:34.05894",
+    "updated_at": "2023-01-18 17:10:34.05894",
+    "disbursement_history": [
+      {
+        "status_code": "need_tax_review",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-18 17:10:34.05894"
+      },
+      {
+        "status_code": "tax_approved",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-19 17:10:34.05894"
+      }
+    ],
+    "referral_affiliate": {
+      "id": 123,
+      "affiliate_id": "uatqontak2",
+      "affiliate_name": "Agent Tanpa Jenis NPWP",
+      "affiliate_bank_code": "BCA",
+      "affiliate_bank_account_number": "4332424324",
+      "affiliate_identity_type": "KTP",
+      "affiliate_identity_no": "3525015201880002"
+    },
+    "referral_program": {
+      "id": 123,
+      "program_id": "qontak-referral-program",
+      "program_title": "Qontak Referral Program"
+    }
+  },
+  {
+    "id": 18,
+    "conversion_id": 21234750,
+    "company_id": 67693,
+    "sso_company_id": "212a21bd-d20a-4f22-a545-26ca789241e7",
+    "external_id": "SP-321001",
+    "affiliate_address": "jakarta",
+    "total_amount": 123000,
+    "source": "zoho",
+    "package": "Enterprise",
+    "subcription_period_in_months": 3,
+    "company_name": "Lead A",
+    "tax_implies": 0.025,
+    "commission_before_tax": 22162,
+    "commission_tax": 554,
+    "commission_nett": 21608,
+    "commission_type": "regular",
+    "notes": "",
+    "last_sync_at": "2023-01-18 17:10:34.05894",
+    "last_status": "need_tax_review",
+    "created_at": "2023-01-18 17:10:34.05894",
+    "updated_at": "2023-01-18 17:10:34.05894",
+    "disbursement_history": [
+      {
+        "status_code": "need_tax_review",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-18 17:10:34.05894"
+      },
+      {
+        "status_code": "tax_approved",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-19 17:10:34.05894"
+      }
+    ],
+    "referral_affiliate": {
+      "id": 123,
+      "affiliate_id": "uatqontak2",
+      "affiliate_name": "Agent Tanpa Jenis NPWP",
+      "affiliate_bank_code": "BCA",
+      "affiliate_bank_account_number": "4332424324",
+      "affiliate_identity_type": "KTP",
+      "affiliate_identity_no": "3525015201880002"
+    },
+    "referral_program": {
+      "id": 123,
+      "program_id": "qontak-referral-program",
+      "program_title": "Qontak Referral Program"
+    }
+  },
+  {
+    "id": 19,
+    "conversion_id": 21234750,
+    "company_id": 67693,
+    "sso_company_id": "212a21bd-d20a-4f22-a545-26ca789241e7",
+    "external_id": "SP-321001",
+    "affiliate_address": "jakarta",
+    "total_amount": 123000,
+    "source": "zoho",
+    "package": "Enterprise",
+    "subcription_period_in_months": 3,
+    "company_name": "Lead A",
+    "tax_implies": 0.025,
+    "commission_before_tax": 22162,
+    "commission_tax": 554,
+    "commission_nett": 21608,
+    "commission_type": "regular",
+    "notes": "",
+    "last_sync_at": "2023-01-18 17:10:34.05894",
+    "last_status": "tax_approved",
+    "created_at": "2023-01-18 17:10:34.05894",
+    "updated_at": "2023-01-18 17:10:34.05894",
+    "disbursement_history": [
+      {
+        "status_code": "need_tax_review",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-18 17:10:34.05894"
+      },
+      {
+        "status_code": "tax_approved",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-19 17:10:34.05894"
+      }
+    ],
+    "referral_affiliate": {
+      "id": 123,
+      "affiliate_id": "uatqontak2",
+      "affiliate_name": "Agent Tanpa Jenis NPWP",
+      "affiliate_bank_code": "BCA",
+      "affiliate_bank_account_number": "4332424324",
+      "affiliate_identity_type": "KTP",
+      "affiliate_identity_no": "3525015201880002"
+    },
+    "referral_program": {
+      "id": 123,
+      "program_id": "qontak-referral-program",
+      "program_title": "Qontak Referral Program"
+    }
+  },
+  {
+    "id": 20,
+    "conversion_id": 21234750,
+    "company_id": 67693,
+    "sso_company_id": "212a21bd-d20a-4f22-a545-26ca789241e7",
+    "external_id": "SP-321001",
+    "affiliate_address": "jakarta",
+    "total_amount": 123000,
+    "source": "zoho",
+    "package": "Enterprise",
+    "subcription_period_in_months": 3,
+    "company_name": "Lead A",
+    "tax_implies": 0.025,
+    "commission_before_tax": 22162,
+    "commission_tax": 554,
+    "commission_nett": 21608,
+    "commission_type": "regular",
+    "notes": "",
+    "last_sync_at": "2023-01-18 17:10:34.05894",
+    "last_status": "need_tax_review",
+    "created_at": "2023-01-18 17:10:34.05894",
+    "updated_at": "2023-01-18 17:10:34.05894",
+    "disbursement_history": [
+      {
+        "status_code": "need_tax_review",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-18 17:10:34.05894"
+      },
+      {
+        "status_code": "tax_approved",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-19 17:10:34.05894"
+      }
+    ],
+    "referral_affiliate": {
+      "id": 123,
+      "affiliate_id": "uatqontak2",
+      "affiliate_name": "Agent Tanpa Jenis NPWP",
+      "affiliate_bank_code": "BCA",
+      "affiliate_bank_account_number": "4332424324",
+      "affiliate_identity_type": "KTP",
+      "affiliate_identity_no": "3525015201880002"
+    },
+    "referral_program": {
+      "id": 123,
+      "program_id": "qontak-referral-program",
+      "program_title": "Qontak Referral Program"
+    }
+  },
+  {
+    "id": 21,
+    "conversion_id": 21234750,
+    "company_id": 67693,
+    "sso_company_id": "212a21bd-d20a-4f22-a545-26ca789241e7",
+    "external_id": "SP-321001",
+    "affiliate_address": "jakarta",
+    "total_amount": 123000,
+    "source": "zoho",
+    "package": "Enterprise",
+    "subcription_period_in_months": 3,
+    "company_name": "Lead A",
+    "tax_implies": 0.025,
+    "commission_before_tax": 22162,
+    "commission_tax": 554,
+    "commission_nett": 21608,
+    "commission_type": "regular",
+    "notes": "",
+    "last_sync_at": "2023-01-18 17:10:34.05894",
+    "last_status": "need_tax_review",
+    "created_at": "2023-01-18 17:10:34.05894",
+    "updated_at": "2023-01-18 17:10:34.05894",
+    "disbursement_history": [
+      {
+        "status_code": "need_tax_review",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-18 17:10:34.05894"
+      },
+      {
+        "status_code": "tax_approved",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-19 17:10:34.05894"
+      }
+    ],
+    "referral_affiliate": {
+      "id": 123,
+      "affiliate_id": "uatqontak2",
+      "affiliate_name": "Agent Tanpa Jenis NPWP",
+      "affiliate_bank_code": "BCA",
+      "affiliate_bank_account_number": "4332424324",
+      "affiliate_identity_type": "KTP",
+      "affiliate_identity_no": "3525015201880002"
+    },
+    "referral_program": {
+      "id": 123,
+      "program_id": "qontak-referral-program",
+      "program_title": "Qontak Referral Program"
+    }
+  },
+  {
+    "id": 22,
+    "conversion_id": 21234750,
+    "company_id": 67693,
+    "sso_company_id": "212a21bd-d20a-4f22-a545-26ca789241e7",
+    "external_id": "SP-321001",
+    "affiliate_address": "jakarta",
+    "total_amount": 123000,
+    "source": "zoho",
+    "package": "Enterprise",
+    "subcription_period_in_months": 3,
+    "company_name": "Lead A",
+    "tax_implies": 0.025,
+    "commission_before_tax": 22162,
+    "commission_tax": 554,
+    "commission_nett": 21608,
+    "commission_type": "regular",
+    "notes": "",
+    "last_sync_at": "2023-01-18 17:10:34.05894",
+    "last_status": "need_tax_review",
+    "created_at": "2023-01-18 17:10:34.05894",
+    "updated_at": "2023-01-18 17:10:34.05894",
+    "disbursement_history": [
+      {
+        "status_code": "need_tax_review",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-18 17:10:34.05894"
+      },
+      {
+        "status_code": "tax_approved",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-19 17:10:34.05894"
+      }
+    ],
+    "referral_affiliate": {
+      "id": 123,
+      "affiliate_id": "uatqontak2",
+      "affiliate_name": "Agent Tanpa Jenis NPWP",
+      "affiliate_bank_code": "BCA",
+      "affiliate_bank_account_number": "4332424324",
+      "affiliate_identity_type": "KTP",
+      "affiliate_identity_no": "3525015201880002"
+    },
+    "referral_program": {
+      "id": 123,
+      "program_id": "qontak-referral-program",
+      "program_title": "Qontak Referral Program"
+    }
+  },
+  {
+    "id": 23,
+    "conversion_id": 21234750,
+    "company_id": 67693,
+    "sso_company_id": "212a21bd-d20a-4f22-a545-26ca789241e7",
+    "external_id": "SP-321001",
+    "affiliate_address": "jakarta",
+    "total_amount": 123000,
+    "source": "zoho",
+    "package": "Enterprise",
+    "subcription_period_in_months": 3,
+    "company_name": "Lead A",
+    "tax_implies": 0.025,
+    "commission_before_tax": 22162,
+    "commission_tax": 554,
+    "commission_nett": 21608,
+    "commission_type": "regular",
+    "notes": "",
+    "last_sync_at": "2023-01-18 17:10:34.05894",
+    "last_status": "need_tax_review",
+    "created_at": "2023-01-18 17:10:34.05894",
+    "updated_at": "2023-01-18 17:10:34.05894",
+    "disbursement_history": [
+      {
+        "status_code": "need_tax_review",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-18 17:10:34.05894"
+      },
+      {
+        "status_code": "tax_approved",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-19 17:10:34.05894"
+      }
+    ],
+    "referral_affiliate": {
+      "id": 123,
+      "affiliate_id": "uatqontak2",
+      "affiliate_name": "Agent Tanpa Jenis NPWP",
+      "affiliate_bank_code": "BCA",
+      "affiliate_bank_account_number": "4332424324",
+      "affiliate_identity_type": "KTP",
+      "affiliate_identity_no": "3525015201880002"
+    },
+    "referral_program": {
+      "id": 123,
+      "program_id": "qontak-referral-program",
+      "program_title": "Qontak Referral Program"
+    }
+  },
+  {
+    "id": 24,
+    "conversion_id": 21234750,
+    "company_id": 67693,
+    "sso_company_id": "212a21bd-d20a-4f22-a545-26ca789241e7",
+    "external_id": "SP-321001",
+    "affiliate_address": "jakarta",
+    "total_amount": 123000,
+    "source": "zoho",
+    "package": "Enterprise",
+    "subcription_period_in_months": 3,
+    "company_name": "Lead A",
+    "tax_implies": 0.025,
+    "commission_before_tax": 22162,
+    "commission_tax": 554,
+    "commission_nett": 21608,
+    "commission_type": "regular",
+    "notes": "",
+    "last_sync_at": "2023-01-18 17:10:34.05894",
+    "last_status": "commission_granted",
+    "created_at": "2023-01-18 17:10:34.05894",
+    "updated_at": "2023-01-18 17:10:34.05894",
+    "disbursement_history": [
+      {
+        "status_code": "need_tax_review",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-18 17:10:34.05894"
+      },
+      {
+        "status_code": "tax_approved",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-19 17:10:34.05894"
+      },
+      {
+        "status_code": "commission_granted",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-20 17:10:34.05894"
+      }
+    ],
+    "referral_affiliate": {
+      "id": 123,
+      "affiliate_id": "uatqontak2",
+      "affiliate_name": "Agent Tanpa Jenis NPWP",
+      "affiliate_bank_code": "BCA",
+      "affiliate_bank_account_number": "4332424324",
+      "affiliate_identity_type": "KTP",
+      "affiliate_identity_no": "3525015201880002"
+    },
+    "referral_program": {
+      "id": 123,
+      "program_id": "qontak-referral-program",
+      "program_title": "Qontak Referral Program"
+    }
+  },
+  {
+    "id": 25,
+    "conversion_id": 21234750,
+    "company_id": 67693,
+    "sso_company_id": "212a21bd-d20a-4f22-a545-26ca789241e7",
+    "external_id": "SP-321001",
+    "affiliate_address": "jakarta",
+    "total_amount": 123000,
+    "source": "zoho",
+    "package": "Enterprise",
+    "subcription_period_in_months": 3,
+    "company_name": "Lead A",
+    "tax_implies": 0.025,
+    "commission_before_tax": 22162,
+    "commission_tax": 554,
+    "commission_nett": 21608,
+    "commission_type": "regular",
+    "notes": "",
+    "last_sync_at": "2023-01-18 17:10:34.05894",
+    "last_status": "commission_granted",
+    "created_at": "2023-01-18 17:10:34.05894",
+    "updated_at": "2023-01-18 17:10:34.05894",
+    "disbursement_history": [
+      {
+        "status_code": "need_tax_review",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-18 17:10:34.05894"
+      },
+      {
+        "status_code": "tax_approved",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-19 17:10:34.05894"
+      },
+      {
+        "status_code": "commission_granted",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-20 17:10:34.05894"
+      }
+    ],
+    "referral_affiliate": {
+      "id": 123,
+      "affiliate_id": "uatqontak2",
+      "affiliate_name": "Agent Tanpa Jenis NPWP",
+      "affiliate_bank_code": "BCA",
+      "affiliate_bank_account_number": "4332424324",
+      "affiliate_identity_type": "KTP",
+      "affiliate_identity_no": "3525015201880002"
+    },
+    "referral_program": {
+      "id": 123,
+      "program_id": "qontak-referral-program",
+      "program_title": "Qontak Referral Program"
+    }
+  },
+  {
+    "id": 26,
+    "conversion_id": 21234750,
+    "company_id": 67693,
+    "sso_company_id": "212a21bd-d20a-4f22-a545-26ca789241e7",
+    "external_id": "SP-321001",
+    "affiliate_address": "jakarta",
+    "total_amount": 123000,
+    "source": "zoho",
+    "package": "Enterprise",
+    "subcription_period_in_months": 3,
+    "company_name": "Lead A",
+    "tax_implies": 0.025,
+    "commission_before_tax": 22162,
+    "commission_tax": 554,
+    "commission_nett": 21608,
+    "commission_type": "regular",
+    "notes": "",
+    "last_sync_at": "2023-01-18 17:10:34.05894",
+    "last_status": "commission_granted",
+    "created_at": "2023-01-18 17:10:34.05894",
+    "updated_at": "2023-01-18 17:10:34.05894",
+    "disbursement_history": [
+      {
+        "status_code": "need_tax_review",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-18 17:10:34.05894"
+      },
+      {
+        "status_code": "tax_approved",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-19 17:10:34.05894"
+      },
+      {
+        "status_code": "commission_granted",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-20 17:10:34.05894"
+      }
+    ],
+    "referral_affiliate": {
+      "id": 123,
+      "affiliate_id": "uatqontak2",
+      "affiliate_name": "Agent Tanpa Jenis NPWP",
+      "affiliate_bank_code": "BCA",
+      "affiliate_bank_account_number": "4332424324",
+      "affiliate_identity_type": "KTP",
+      "affiliate_identity_no": "3525015201880002"
+    },
+    "referral_program": {
+      "id": 123,
+      "program_id": "qontak-referral-program",
+      "program_title": "Qontak Referral Program"
+    }
+  },
+  {
+    "id": 27,
+    "conversion_id": 21234750,
+    "company_id": 67693,
+    "sso_company_id": "212a21bd-d20a-4f22-a545-26ca789241e7",
+    "external_id": "SP-321001",
+    "affiliate_address": "jakarta",
+    "total_amount": 123000,
+    "source": "zoho",
+    "package": "Enterprise",
+    "subcription_period_in_months": 3,
+    "company_name": "Lead A",
+    "tax_implies": 0.025,
+    "commission_before_tax": 22162,
+    "commission_tax": 554,
+    "commission_nett": 21608,
+    "commission_type": "regular",
+    "notes": "",
+    "last_sync_at": "2023-01-18 17:10:34.05894",
+    "last_status": "commission_granted",
+    "created_at": "2023-01-18 17:10:34.05894",
+    "updated_at": "2023-01-18 17:10:34.05894",
+    "disbursement_history": [
+      {
+        "status_code": "need_tax_review",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-18 17:10:34.05894"
+      },
+      {
+        "status_code": "tax_approved",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-19 17:10:34.05894"
+      },
+      {
+        "status_code": "commission_granted",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-20 17:10:34.05894"
+      }
+    ],
+    "referral_affiliate": {
+      "id": 123,
+      "affiliate_id": "uatqontak2",
+      "affiliate_name": "Agent Tanpa Jenis NPWP",
+      "affiliate_bank_code": "BCA",
+      "affiliate_bank_account_number": "4332424324",
+      "affiliate_identity_type": "KTP",
+      "affiliate_identity_no": "3525015201880002"
+    },
+    "referral_program": {
+      "id": 123,
+      "program_id": "qontak-referral-program",
+      "program_title": "Qontak Referral Program"
+    }
+  },
+  {
+    "id": 28,
+    "conversion_id": 21234750,
+    "company_id": 67693,
+    "sso_company_id": "212a21bd-d20a-4f22-a545-26ca789241e7",
+    "external_id": "SP-321001",
+    "affiliate_address": "jakarta",
+    "total_amount": 123000,
+    "source": "zoho",
+    "package": "Enterprise",
+    "subcription_period_in_months": 3,
+    "company_name": "Lead A",
+    "tax_implies": 0.025,
+    "commission_before_tax": 22162,
+    "commission_tax": 554,
+    "commission_nett": 21608,
+    "commission_type": "regular",
+    "notes": "",
+    "last_sync_at": "2023-01-18 17:10:34.05894",
+    "last_status": "commission_rejected",
+    "created_at": "2023-01-18 17:10:34.05894",
+    "updated_at": "2023-01-18 17:10:34.05894",
+    "disbursement_history": [
+      {
+        "status_code": "need_tax_review",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-18 17:10:34.05894"
+      },
+      {
+        "status_code": "tax_approved",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-19 17:10:34.05894"
+      }
+    ],
+    "referral_affiliate": {
+      "id": 123,
+      "affiliate_id": "uatqontak2",
+      "affiliate_name": "Agent Tanpa Jenis NPWP",
+      "affiliate_bank_code": "BCA",
+      "affiliate_bank_account_number": "4332424324",
+      "affiliate_identity_type": "KTP",
+      "affiliate_identity_no": "3525015201880002"
+    },
+    "referral_program": {
+      "id": 123,
+      "program_id": "qontak-referral-program",
+      "program_title": "Qontak Referral Program"
+    }
+  },
+  {
+    "id": 29,
+    "conversion_id": 21234750,
+    "company_id": 67693,
+    "sso_company_id": "212a21bd-d20a-4f22-a545-26ca789241e7",
+    "external_id": "SP-321001",
+    "affiliate_address": "jakarta",
+    "total_amount": 123000,
+    "source": "zoho",
+    "package": "Enterprise",
+    "subcription_period_in_months": 3,
+    "company_name": "Lead A",
+    "tax_implies": 0.025,
+    "commission_before_tax": 22162,
+    "commission_tax": 554,
+    "commission_nett": 21608,
+    "commission_type": "regular",
+    "notes": "",
+    "last_sync_at": "2023-01-18 17:10:34.05894",
+    "last_status": "commission_rejected",
+    "created_at": "2023-01-18 17:10:34.05894",
+    "updated_at": "2023-01-18 17:10:34.05894",
+    "disbursement_history": [
+      {
+        "status_code": "need_tax_review",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-18 17:10:34.05894"
+      },
+      {
+        "status_code": "tax_approved",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-19 17:10:34.05894"
+      }
+    ],
+    "referral_affiliate": {
+      "id": 123,
+      "affiliate_id": "uatqontak2",
+      "affiliate_name": "Agent Tanpa Jenis NPWP",
+      "affiliate_bank_code": "BCA",
+      "affiliate_bank_account_number": "4332424324",
+      "affiliate_identity_type": "KTP",
+      "affiliate_identity_no": "3525015201880002"
+    },
+    "referral_program": {
+      "id": 123,
+      "program_id": "qontak-referral-program",
+      "program_title": "Qontak Referral Program"
+    }
+  },
+  {
+    "id": 30,
+    "conversion_id": 21234750,
+    "company_id": 67693,
+    "sso_company_id": "212a21bd-d20a-4f22-a545-26ca789241e7",
+    "external_id": "SP-321001",
+    "affiliate_address": "jakarta",
+    "total_amount": 123000,
+    "source": "zoho",
+    "package": "Enterprise",
+    "subcription_period_in_months": 3,
+    "company_name": "Lead A",
+    "tax_implies": 0.025,
+    "commission_before_tax": 22162,
+    "commission_tax": 554,
+    "commission_nett": 21608,
+    "commission_type": "regular",
+    "notes": "",
+    "last_sync_at": "2023-01-18 17:10:34.05894",
+    "last_status": "paid",
+    "created_at": "2023-01-18 17:10:34.05894",
+    "updated_at": "2023-01-18 17:10:34.05894",
+    "disbursement_history": [
+      {
+        "status_code": "need_tax_review",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-18 17:10:34.05894"
+      },
+      {
+        "status_code": "tax_approved",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-19 17:10:34.05894"
+      },
+      {
+        "status_code": "commission_granted",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-20 17:10:34.05894"
+      },
+      {
+        "status_code": "paid",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-020-19 17:10:34.05894"
+      }
+    ],
+    "referral_affiliate": {
+      "id": 123,
+      "affiliate_id": "uatqontak2",
+      "affiliate_name": "Agent Tanpa Jenis NPWP",
+      "affiliate_bank_code": "BCA",
+      "affiliate_bank_account_number": "4332424324",
+      "affiliate_identity_type": "KTP",
+      "affiliate_identity_no": "3525015201880002"
+    },
+    "referral_program": {
+      "id": 123,
+      "program_id": "qontak-referral-program",
+      "program_title": "Qontak Referral Program"
+    }
+  },
+  {
+    "id": 31,
+    "conversion_id": 21234750,
+    "company_id": 67693,
+    "sso_company_id": "212a21bd-d20a-4f22-a545-26ca789241e7",
+    "external_id": "SP-321001",
+    "affiliate_address": "jakarta",
+    "total_amount": 123000,
+    "source": "zoho",
+    "package": "Enterprise",
+    "subcription_period_in_months": 3,
+    "company_name": "Lead A",
+    "tax_implies": 0.025,
+    "commission_before_tax": 22162,
+    "commission_tax": 554,
+    "commission_nett": 21608,
+    "commission_type": "regular",
+    "notes": "",
+    "last_sync_at": "2023-01-18 17:10:34.05894",
+    "last_status": "paid",
+    "created_at": "2023-01-18 17:10:34.05894",
+    "updated_at": "2023-01-18 17:10:34.05894",
+    "disbursement_history": [
+      {
+        "status_code": "need_tax_review",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-18 17:10:34.05894"
+      },
+      {
+        "status_code": "tax_approved",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-19 17:10:34.05894"
+      },
+      {
+        "status_code": "commission_granted",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-20 17:10:34.05894"
+      },
+      {
+        "status_code": "paid",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-020-19 17:10:34.05894"
+      }
+    ],
+    "referral_affiliate": {
+      "id": 123,
+      "affiliate_id": "uatqontak2",
+      "affiliate_name": "Agent Tanpa Jenis NPWP",
+      "affiliate_bank_code": "BCA",
+      "affiliate_bank_account_number": "4332424324",
+      "affiliate_identity_type": "KTP",
+      "affiliate_identity_no": "3525015201880002"
+    },
+    "referral_program": {
+      "id": 123,
+      "program_id": "qontak-referral-program",
+      "program_title": "Qontak Referral Program"
+    }
+  },
+  {
+    "id": 32,
+    "conversion_id": 21234750,
+    "company_id": 67693,
+    "sso_company_id": "212a21bd-d20a-4f22-a545-26ca789241e7",
+    "external_id": "SP-321001",
+    "affiliate_address": "jakarta",
+    "total_amount": 123000,
+    "source": "zoho",
+    "package": "Enterprise",
+    "subcription_period_in_months": 3,
+    "company_name": "Lead A",
+    "tax_implies": 0.025,
+    "commission_before_tax": 22162,
+    "commission_tax": 554,
+    "commission_nett": 21608,
+    "commission_type": "regular",
+    "notes": "",
+    "last_sync_at": "2023-01-18 17:10:34.05894",
+    "last_status": "paid",
+    "created_at": "2023-01-18 17:10:34.05894",
+    "updated_at": "2023-01-18 17:10:34.05894",
+    "disbursement_history": [
+      {
+        "status_code": "need_tax_review",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-18 17:10:34.05894"
+      },
+      {
+        "status_code": "tax_approved",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-19 17:10:34.05894"
+      },
+      {
+        "status_code": "commission_granted",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-20 17:10:34.05894"
+      },
+      {
+        "status_code": "paid",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-020-19 17:10:34.05894"
+      }
+    ],
+    "referral_affiliate": {
+      "id": 123,
+      "affiliate_id": "uatqontak2",
+      "affiliate_name": "Agent Tanpa Jenis NPWP",
+      "affiliate_bank_code": "BCA",
+      "affiliate_bank_account_number": "4332424324",
+      "affiliate_identity_type": "KTP",
+      "affiliate_identity_no": "3525015201880002"
+    },
+    "referral_program": {
+      "id": 123,
+      "program_id": "qontak-referral-program",
+      "program_title": "Qontak Referral Program"
+    }
+  },
+  {
+    "id": 33,
+    "conversion_id": 21234750,
+    "company_id": 67693,
+    "sso_company_id": "212a21bd-d20a-4f22-a545-26ca789241e7",
+    "external_id": "SP-321001",
+    "affiliate_address": "jakarta",
+    "total_amount": 123000,
+    "source": "zoho",
+    "package": "Enterprise",
+    "subcription_period_in_months": 3,
+    "company_name": "Lead A",
+    "tax_implies": 0.025,
+    "commission_before_tax": 22162,
+    "commission_tax": 554,
+    "commission_nett": 21608,
+    "commission_type": "regular",
+    "notes": "",
+    "last_sync_at": "2023-01-18 17:10:34.05894",
+    "last_status": "failed",
+    "created_at": "2023-01-18 17:10:34.05894",
+    "updated_at": "2023-01-18 17:10:34.05894",
+    "disbursement_history": [
+      {
+        "status_code": "need_tax_review",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-18 17:10:34.05894"
+      },
+      {
+        "status_code": "tax_approved",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-19 17:10:34.05894"
+      },
+      {
+        "status_code": "commission_granted",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-20 17:10:34.05894"
+      },
+      {
+        "status_code": "failed",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-21 17:10:34.05894"
+      }
+    ],
+    "referral_affiliate": {
+      "id": 123,
+      "affiliate_id": "uatqontak2",
+      "affiliate_name": "Agent Tanpa Jenis NPWP",
+      "affiliate_bank_code": "BCA",
+      "affiliate_bank_account_number": "4332424324",
+      "affiliate_identity_type": "KTP",
+      "affiliate_identity_no": "3525015201880002"
+    },
+    "referral_program": {
+      "id": 123,
+      "program_id": "qontak-referral-program",
+      "program_title": "Qontak Referral Program"
+    }
+  },
+  {
+    "id": 34,
+    "conversion_id": 21234750,
+    "company_id": 67693,
+    "sso_company_id": "212a21bd-d20a-4f22-a545-26ca789241e7",
+    "external_id": "SP-321001",
+    "affiliate_address": "jakarta",
+    "total_amount": 123000,
+    "source": "zoho",
+    "package": "Enterprise",
+    "subcription_period_in_months": 3,
+    "company_name": "Lead A",
+    "tax_implies": 0.025,
+    "commission_before_tax": 22162,
+    "commission_tax": 554,
+    "commission_nett": 21608,
+    "commission_type": "regular",
+    "notes": "",
+    "last_sync_at": "2023-01-18 17:10:34.05894",
+    "last_status": "failed",
+    "created_at": "2023-01-18 17:10:34.05894",
+    "updated_at": "2023-01-18 17:10:34.05894",
+    "disbursement_history": [
+      {
+        "status_code": "need_tax_review",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-18 17:10:34.05894"
+      },
+      {
+        "status_code": "tax_approved",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-19 17:10:34.05894"
+      },
+      {
+        "status_code": "commission_granted",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-20 17:10:34.05894"
+      },
+      {
+        "status_code": "failed",
+        "notes": "",
+        "created_by": "Firman S",
+        "created_at": "2023-01-21 17:10:34.05894"
+      }
+    ],
+    "referral_affiliate": {
+      "id": 123,
+      "affiliate_id": "uatqontak2",
+      "affiliate_name": "Agent Tanpa Jenis NPWP",
+      "affiliate_bank_code": "BCA",
+      "affiliate_bank_account_number": "4332424324",
+      "affiliate_identity_type": "KTP",
+      "affiliate_identity_no": "3525015201880002"
+    },
+    "referral_program": {
+      "id": 123,
+      "program_id": "qontak-referral-program",
+      "program_title": "Qontak Referral Program"
+    }
+  }
+]
