@@ -28,20 +28,19 @@ router.get('/', function (req, res) {
     })
   }
 
+
   // page
   records = records.slice(0, 10)
   
-  setTimeout(() => {
-    res.status(200).json({
-      metadata: {
-        page: 1,
-        per_page: 10,
-        page_count: 10,
-        total_count: totalItems,
-      },
-      records,
-    })
-  }, 1000)
+  res.status(200).json({
+    metadata: {
+      page: 1,
+      per_page: 10,
+      page_count: 10,
+      total_count: totalItems,
+    },
+    records,
+  })
 })
 
 router.get('/commission-summary', function (_, res) {
