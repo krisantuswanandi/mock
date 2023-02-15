@@ -8,6 +8,9 @@ const router = express.Router()
 router.get('/', function (req, res) {
   const status = req.query.status_code
   const search = req.query.search
+  const page = +req.query.page || 1
+  const itemsPerPage = +req.query.per_page || 10
+
   let records = disbursements
   let totalItems = 0
 
@@ -15,7 +18,6 @@ router.get('/', function (req, res) {
   if (status) {
     const statuses = status.split(',')
     records = disbursements.filter(d => statuses.includes(d.last_status))
-    totalItems = records.length
   }
 
   // search
@@ -29,14 +31,19 @@ router.get('/', function (req, res) {
   }
 
 
+  // count
+  totalItems = records.length
+
   // page
-  records = records.slice(0, 10)
+  const start = (page - 1) * itemsPerPage
+  const end = start + itemsPerPage
+  records = records.slice(start, end)
   
   res.status(200).json({
     metadata: {
-      page: 1,
-      per_page: 10,
-      page_count: 10,
+      page: page,
+      per_page: itemsPerPage,
+      page_count: Math.ceil(totalItems / itemsPerPage),
       total_count: totalItems,
     },
     records,
