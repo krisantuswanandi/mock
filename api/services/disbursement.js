@@ -65,14 +65,19 @@ router.get('/programs', function (_, res) {
   res.json(programs)
 })
 
-router.get('/:id', function (_, res) {
-  res.json(disbursements[0])
+router.get('/:id', function (req, res) {
+  const id = req.params.id
+  const disbursement = disbursements.find((d) => `${d.id}` === id);
+
+  res.json(disbursement)
 })
 
 router.post('/:id', function (_, res) {
-  res.json({
-    message: 'OK'
-  })
+  setTimeout(() => {
+    res.json({
+      message: 'OK'
+    })
+  }, 2000)
 })
 
 module.exports = router
