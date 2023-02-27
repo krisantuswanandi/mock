@@ -17,22 +17,22 @@
     "commission_nett": 21608,
     "commission_type": "regular",
     "notes": "",
-    "last_sync_at": "2023-01-18 17:10:34.05894",
+    "last_sync_at": "2023-01-18T17:10:34Z",
     "last_status": "need_tax_review",
-    "created_at": "2023-01-18 17:10:34.05894",
-    "updated_at": "2023-01-18 17:10:34.05894",
+    "created_at": "2023-01-18T17:10:34Z",
+    "updated_at": "2023-01-18T17:10:34Z",
     "disbursement_histories": [
       {
         "status_code": "need_tax_review",
         "notes": "",
         "created_by": "",
-        "created_at": "2023-01-18 17:10:34.05894"
+        "created_at": "2023-01-18T17:10:34Z"
       },
       {
         "status_code": "tax_approved",
         "notes": "",
         "created_by": "Firman S",
-        "created_at": "2023-01-19 17:10:34.05894"
+        "created_at": "2023-01-19T17:10:34Z"
       }
     ],
     "referral_affiliate": {
@@ -70,20 +70,20 @@
     "notes": "",
     "last_sync_at": "",
     "last_status": "need_tax_review",
-    "created_at": "2023-01-18 17:10:34.05894",
-    "updated_at": "2023-01-18 17:10:34.05894",
+    "created_at": "2023-01-18T17:10:34Z",
+    "updated_at": "2023-01-18T17:10:34Z",
     "disbursement_histories": [
       {
         "status_code": "need_tax_review",
         "notes": "",
         "created_by": "",
-        "created_at": "2023-01-18 17:10:34.05894"
+        "created_at": "2023-01-18T17:10:34Z"
       },
       {
         "status_code": "tax_approved",
         "notes": "",
         "created_by": "Firman S",
-        "created_at": "2023-01-19 17:10:34.05894"
+        "created_at": "2023-01-19T17:10:34Z"
       }
     ],
     "referral_affiliate": {
@@ -119,22 +119,22 @@
     "commission_nett": 21608,
     "commission_type": "regular",
     "notes": "",
-    "last_sync_at": "2023-01-18 17:10:34.05894",
+    "last_sync_at": "2023-01-18T17:10:34Z",
     "last_status": "need_tax_review",
-    "created_at": "2023-01-18 17:10:34.05894",
-    "updated_at": "2023-01-18 17:10:34.05894",
+    "created_at": "2023-01-18T17:10:34Z",
+    "updated_at": "2023-01-18T17:10:34Z",
     "disbursement_histories": [
       {
         "status_code": "need_tax_review",
         "notes": "",
         "created_by": "",
-        "created_at": "2023-01-18 17:10:34.05894"
+        "created_at": "2023-01-18T17:10:34Z"
       },
       {
         "status_code": "tax_approved",
         "notes": "",
         "created_by": "Firman S",
-        "created_at": "2023-01-19 17:10:34.05894"
+        "created_at": "2023-01-19T17:10:34Z"
       }
     ],
     "referral_affiliate": {
@@ -172,20 +172,20 @@
     "notes": "",
     "last_sync_at": "",
     "last_status": "need_tax_review",
-    "created_at": "2023-01-18 17:10:34.05894",
-    "updated_at": "2023-01-18 17:10:34.05894",
+    "created_at": "2023-01-18T17:10:34Z",
+    "updated_at": "2023-01-18T17:10:34Z",
     "disbursement_histories": [
       {
         "status_code": "need_tax_review",
         "notes": "",
         "created_by": "",
-        "created_at": "2023-01-18 17:10:34.05894"
+        "created_at": "2023-01-18T17:10:34Z"
       },
       {
         "status_code": "tax_approved",
         "notes": "",
         "created_by": "Firman S",
-        "created_at": "2023-01-19 17:10:34.05894"
+        "created_at": "2023-01-19T17:10:34Z"
       }
     ],
     "referral_affiliate": {
@@ -223,20 +223,20 @@
     "notes": "",
     "last_sync_at": "",
     "last_status": "need_tax_review",
-    "created_at": "2023-01-18 17:10:34.05894",
-    "updated_at": "2023-01-18 17:10:34.05894",
+    "created_at": "2023-01-18T17:10:34Z",
+    "updated_at": "2023-01-18T17:10:34Z",
     "disbursement_histories": [
       {
         "status_code": "need_tax_review",
         "notes": "",
         "created_by": "",
-        "created_at": "2023-01-18 17:10:34.05894"
+        "created_at": "2023-01-18T17:10:34Z"
       },
       {
         "status_code": "tax_approved",
         "notes": "",
         "created_by": "Firman S",
-        "created_at": "2023-01-19 17:10:34.05894"
+        "created_at": "2023-01-19T17:10:34Z"
       }
     ],
     "referral_affiliate": {
@@ -274,20 +274,20 @@
     "notes": "test notes",
     "last_sync_at": "",
     "last_status": "need_tax_review",
-    "created_at": "2023-01-18 17:10:34.05894",
-    "updated_at": "2023-01-18 17:10:34.05894",
+    "created_at": "2023-01-18T17:10:34Z",
+    "updated_at": "2023-01-18T17:10:34Z",
     "disbursement_histories": [
       {
         "status_code": "need_tax_review",
         "notes": "",
         "created_by": "",
-        "created_at": "2023-01-18 17:10:34.05894"
+        "created_at": "2023-01-18T17:10:34Z"
       },
       {
         "status_code": "tax_approved",
         "notes": "",
         "created_by": "Firman S",
-        "created_at": "2023-01-19 17:10:34.05894"
+        "created_at": "2023-01-19T17:10:34Z"
       }
     ],
     "referral_affiliate": {
@@ -325,20 +325,20 @@
     "notes": "test notes",
     "last_sync_at": "",
     "last_status": "need_tax_review",
-    "created_at": "2023-01-18 17:10:34.05894",
-    "updated_at": "2023-01-18 17:10:34.05894",
+    "created_at": "2023-01-18T17:10:34Z",
+    "updated_at": "2023-01-18T17:10:34Z",
     "disbursement_histories": [
       {
         "status_code": "need_tax_review",
         "notes": "",
         "created_by": "",
-        "created_at": "2023-01-18 17:10:34.05894"
+        "created_at": "2023-01-18T17:10:34Z"
       },
       {
         "status_code": "tax_approved",
         "notes": "",
         "created_by": "Firman S",
-        "created_at": "2023-01-19 17:10:34.05894"
+        "created_at": "2023-01-19T17:10:34Z"
       }
     ],
     "referral_affiliate": {
@@ -376,20 +376,20 @@
     "notes": "test notes",
     "last_sync_at": "",
     "last_status": "tax_rejected",
-    "created_at": "2023-01-18 17:10:34.05894",
-    "updated_at": "2023-01-18 17:10:34.05894",
+    "created_at": "2023-01-18T17:10:34Z",
+    "updated_at": "2023-01-18T17:10:34Z",
     "disbursement_histories": [
       {
         "status_code": "need_tax_review",
         "notes": "",
         "created_by": "",
-        "created_at": "2023-01-18 17:10:34.05894"
+        "created_at": "2023-01-18T17:10:34Z"
       },
       {
         "status_code": "tax_rejected",
         "notes": "test notes",
         "created_by": "Firman S",
-        "created_at": "2023-01-19 17:10:34.05894"
+        "created_at": "2023-01-19T17:10:34Z"
       }
     ],
     "referral_affiliate": {
@@ -425,22 +425,22 @@
     "commission_nett": 21608,
     "commission_type": "regular",
     "notes": "test notes",
-    "last_sync_at": "2023-01-18 17:10:34.05894",
+    "last_sync_at": "2023-01-19T06:10:34Z",
     "last_status": "tax_rejected",
-    "created_at": "2023-01-18 17:10:34.05894",
-    "updated_at": "2023-01-18 17:10:34.05894",
+    "created_at": "2023-01-18T17:10:34Z",
+    "updated_at": "2023-01-18T17:10:34Z",
     "disbursement_histories": [
       {
         "status_code": "need_tax_review",
         "notes": "",
         "created_by": "",
-        "created_at": "2023-01-18 17:10:34.05894"
+        "created_at": "2023-01-18T17:10:34Z"
       },
       {
         "status_code": "tax_rejected",
         "notes": "test notes",
         "created_by": "Firman S",
-        "created_at": "2023-01-19 17:10:34.05894"
+        "created_at": "2023-01-19T07:10:34Z"
       }
     ],
     "referral_affiliate": {
@@ -476,22 +476,22 @@
     "commission_nett": 21608,
     "commission_type": "regular",
     "notes": "test notes",
-    "last_sync_at": "2023-01-18 17:10:34.05894",
+    "last_sync_at": "2023-01-19T08:10:34Z",
     "last_status": "tax_rejected",
-    "created_at": "2023-01-18 17:10:34.05894",
-    "updated_at": "2023-01-18 17:10:34.05894",
+    "created_at": "2023-01-18T17:10:34Z",
+    "updated_at": "2023-01-18T17:10:34Z",
     "disbursement_histories": [
       {
         "status_code": "need_tax_review",
         "notes": "",
         "created_by": "",
-        "created_at": "2023-01-18 17:10:34.05894"
+        "created_at": "2023-01-18T17:10:34Z"
       },
       {
         "status_code": "tax_rejected",
         "notes": "test notes",
         "created_by": "Firman S",
-        "created_at": "2023-01-19 17:10:34.05894"
+        "created_at": "2023-01-19T07:10:34Z"
       }
     ],
     "referral_affiliate": {
@@ -527,22 +527,22 @@
     "commission_nett": 21608,
     "commission_type": "regular",
     "notes": "test notes",
-    "last_sync_at": "2023-01-18 17:10:34.05894",
+    "last_sync_at": "2023-01-20T17:10:34Z",
     "last_status": "tax_rejected",
-    "created_at": "2023-01-18 17:10:34.05894",
-    "updated_at": "2023-01-18 17:10:34.05894",
+    "created_at": "2023-01-18T17:10:34Z",
+    "updated_at": "2023-01-18T17:10:34Z",
     "disbursement_histories": [
       {
         "status_code": "need_tax_review",
         "notes": "",
         "created_by": "",
-        "created_at": "2023-01-18 17:10:34.05894"
+        "created_at": "2023-01-18T17:10:34Z"
       },
       {
         "status_code": "tax_rejected",
         "notes": "test notes",
         "created_by": "Firman S",
-        "created_at": "2023-01-19 17:10:34.05894"
+        "created_at": "2023-01-19T17:10:34Z"
       }
     ],
     "referral_affiliate": {
@@ -578,22 +578,22 @@
     "commission_nett": 21608,
     "commission_type": "regular",
     "notes": "test notes",
-    "last_sync_at": "2023-01-18 17:10:34.05894",
+    "last_sync_at": "2023-01-18T17:10:34Z",
     "last_status": "tax_rejected",
-    "created_at": "2023-01-18 17:10:34.05894",
-    "updated_at": "2023-01-18 17:10:34.05894",
+    "created_at": "2023-01-18T17:10:34Z",
+    "updated_at": "2023-01-18T17:10:34Z",
     "disbursement_histories": [
       {
         "status_code": "need_tax_review",
         "notes": "",
         "created_by": "",
-        "created_at": "2023-01-18 17:10:34.05894"
+        "created_at": "2023-01-18T17:10:34Z"
       },
       {
         "status_code": "tax_rejected",
         "notes": "test notes",
         "created_by": "Firman S",
-        "created_at": "2023-01-19 17:10:34.05894"
+        "created_at": "2023-01-19T17:10:34Z"
       }
     ],
     "referral_affiliate": {
@@ -629,22 +629,22 @@
     "commission_nett": 21608,
     "commission_type": "regular",
     "notes": "",
-    "last_sync_at": "2023-01-18 17:10:34.05894",
+    "last_sync_at": "2023-01-20T17:10:34Z",
     "last_status": "tax_rejected",
-    "created_at": "2023-01-18 17:10:34.05894",
-    "updated_at": "2023-01-18 17:10:34.05894",
+    "created_at": "2023-01-18T17:10:34Z",
+    "updated_at": "2023-01-18T17:10:34Z",
     "disbursement_histories": [
       {
         "status_code": "need_tax_review",
         "notes": "",
         "created_by": "",
-        "created_at": "2023-01-18 17:10:34.05894"
+        "created_at": "2023-01-18T17:10:34Z"
       },
       {
         "status_code": "tax_rejected",
         "notes": "test notes",
         "created_by": "Firman S",
-        "created_at": "2023-01-19 17:10:34.05894"
+        "created_at": "2023-01-19T17:10:34Z"
       }
     ],
     "referral_affiliate": {
@@ -680,22 +680,22 @@
     "commission_nett": 21608,
     "commission_type": "regular",
     "notes": "",
-    "last_sync_at": "2023-01-18 17:10:34.05894",
+    "last_sync_at": "2023-01-18T17:10:34Z",
     "last_status": "need_tax_review",
-    "created_at": "2023-01-18 17:10:34.05894",
-    "updated_at": "2023-01-18 17:10:34.05894",
+    "created_at": "2023-01-18T17:10:34Z",
+    "updated_at": "2023-01-18T17:10:34Z",
     "disbursement_histories": [
       {
         "status_code": "need_tax_review",
         "notes": "",
         "created_by": "",
-        "created_at": "2023-01-18 17:10:34.05894"
+        "created_at": "2023-01-18T17:10:34Z"
       },
       {
         "status_code": "tax_approved",
         "notes": "",
         "created_by": "Firman S",
-        "created_at": "2023-01-19 17:10:34.05894"
+        "created_at": "2023-01-19T17:10:34Z"
       }
     ],
     "referral_affiliate": {
@@ -731,22 +731,22 @@
     "commission_nett": 21608,
     "commission_type": "regular",
     "notes": "",
-    "last_sync_at": "2023-01-18 17:10:34.05894",
+    "last_sync_at": "2023-01-18T17:10:34Z",
     "last_status": "need_tax_review",
-    "created_at": "2023-01-18 17:10:34.05894",
-    "updated_at": "2023-01-18 17:10:34.05894",
+    "created_at": "2023-01-18T17:10:34Z",
+    "updated_at": "2023-01-18T17:10:34Z",
     "disbursement_histories": [
       {
         "status_code": "need_tax_review",
         "notes": "",
         "created_by": "",
-        "created_at": "2023-01-18 17:10:34.05894"
+        "created_at": "2023-01-18T17:10:34Z"
       },
       {
         "status_code": "tax_approved",
         "notes": "",
         "created_by": "Firman S",
-        "created_at": "2023-01-19 17:10:34.05894"
+        "created_at": "2023-01-19T17:10:34Z"
       }
     ],
     "referral_affiliate": {
@@ -784,20 +784,20 @@
     "notes": "",
     "last_sync_at": "",
     "last_status": "need_tax_review",
-    "created_at": "2023-01-18 17:10:34.05894",
-    "updated_at": "2023-01-18 17:10:34.05894",
+    "created_at": "2023-01-18T17:10:34Z",
+    "updated_at": "2023-01-18T17:10:34Z",
     "disbursement_histories": [
       {
         "status_code": "need_tax_review",
         "notes": "",
         "created_by": "",
-        "created_at": "2023-01-18 17:10:34.05894"
+        "created_at": "2023-01-18T17:10:34Z"
       },
       {
         "status_code": "tax_approved",
         "notes": "",
         "created_by": "Firman S",
-        "created_at": "2023-01-19 17:10:34.05894"
+        "created_at": "2023-01-19T17:10:34Z"
       }
     ],
     "referral_affiliate": {
@@ -835,20 +835,20 @@
     "notes": "",
     "last_sync_at": "",
     "last_status": "need_tax_review",
-    "created_at": "2023-01-18 17:10:34.05894",
-    "updated_at": "2023-01-18 17:10:34.05894",
+    "created_at": "2023-01-18T17:10:34Z",
+    "updated_at": "2023-01-18T17:10:34Z",
     "disbursement_histories": [
       {
         "status_code": "need_tax_review",
         "notes": "",
         "created_by": "",
-        "created_at": "2023-01-18 17:10:34.05894"
+        "created_at": "2023-01-18T17:10:34Z"
       },
       {
         "status_code": "tax_approved",
         "notes": "",
         "created_by": "Firman S",
-        "created_at": "2023-01-19 17:10:34.05894"
+        "created_at": "2023-01-19T17:10:34Z"
       }
     ],
     "referral_affiliate": {
@@ -886,20 +886,20 @@
     "notes": "",
     "last_sync_at": "",
     "last_status": "need_tax_review",
-    "created_at": "2023-01-18 17:10:34.05894",
-    "updated_at": "2023-01-18 17:10:34.05894",
+    "created_at": "2023-01-18T17:10:34Z",
+    "updated_at": "2023-01-18T17:10:34Z",
     "disbursement_histories": [
       {
         "status_code": "need_tax_review",
         "notes": "",
         "created_by": "",
-        "created_at": "2023-01-18 17:10:34.05894"
+        "created_at": "2023-01-18T17:10:34Z"
       },
       {
         "status_code": "tax_approved",
         "notes": "",
         "created_by": "Firman S",
-        "created_at": "2023-01-19 17:10:34.05894"
+        "created_at": "2023-01-19T17:10:34Z"
       }
     ],
     "referral_affiliate": {
@@ -937,20 +937,20 @@
     "notes": "",
     "last_sync_at": "",
     "last_status": "tax_approved",
-    "created_at": "2023-01-18 17:10:34.05894",
-    "updated_at": "2023-01-18 17:10:34.05894",
+    "created_at": "2023-01-18T17:10:34Z",
+    "updated_at": "2023-01-18T17:10:34Z",
     "disbursement_histories": [
       {
         "status_code": "need_tax_review",
         "notes": "",
         "created_by": "",
-        "created_at": "2023-01-18 17:10:34.05894"
+        "created_at": "2023-01-18T17:10:34Z"
       },
       {
         "status_code": "tax_approved",
         "notes": "",
         "created_by": "Firman S",
-        "created_at": "2023-01-19 17:10:34.05894"
+        "created_at": "2023-01-19T17:10:34Z"
       }
     ],
     "referral_affiliate": {
@@ -986,22 +986,22 @@
     "commission_nett": 21608,
     "commission_type": "regular",
     "notes": "test notes",
-    "last_sync_at": "2023-01-18 17:10:34.05894",
+    "last_sync_at": "2023-01-18T17:10:34Z",
     "last_status": "need_tax_review",
-    "created_at": "2023-01-18 17:10:34.05894",
-    "updated_at": "2023-01-18 17:10:34.05894",
+    "created_at": "2023-01-18T17:10:34Z",
+    "updated_at": "2023-01-18T17:10:34Z",
     "disbursement_histories": [
       {
         "status_code": "need_tax_review",
         "notes": "",
         "created_by": "",
-        "created_at": "2023-01-18 17:10:34.05894"
+        "created_at": "2023-01-18T17:10:34Z"
       },
       {
         "status_code": "tax_approved",
         "notes": "",
         "created_by": "Firman S",
-        "created_at": "2023-01-19 17:10:34.05894"
+        "created_at": "2023-01-19T17:10:34Z"
       }
     ],
     "referral_affiliate": {
@@ -1037,22 +1037,22 @@
     "commission_nett": 21608,
     "commission_type": "regular",
     "notes": "test notes",
-    "last_sync_at": "2023-01-18 17:10:34.05894",
+    "last_sync_at": "2023-01-18T17:10:34Z",
     "last_status": "need_tax_review",
-    "created_at": "2023-01-18 17:10:34.05894",
-    "updated_at": "2023-01-18 17:10:34.05894",
+    "created_at": "2023-01-18T17:10:34Z",
+    "updated_at": "2023-01-18T17:10:34Z",
     "disbursement_histories": [
       {
         "status_code": "need_tax_review",
         "notes": "",
         "created_by": "",
-        "created_at": "2023-01-18 17:10:34.05894"
+        "created_at": "2023-01-18T17:10:34Z"
       },
       {
         "status_code": "tax_approved",
         "notes": "",
         "created_by": "Firman S",
-        "created_at": "2023-01-19 17:10:34.05894"
+        "created_at": "2023-01-19T17:10:34Z"
       }
     ],
     "referral_affiliate": {
@@ -1088,22 +1088,22 @@
     "commission_nett": 21608,
     "commission_type": "regular",
     "notes": "test notes",
-    "last_sync_at": "2023-01-18 17:10:34.05894",
+    "last_sync_at": "2023-01-18T17:10:34Z",
     "last_status": "need_tax_review",
-    "created_at": "2023-01-18 17:10:34.05894",
-    "updated_at": "2023-01-18 17:10:34.05894",
+    "created_at": "2023-01-18T17:10:34Z",
+    "updated_at": "2023-01-18T17:10:34Z",
     "disbursement_histories": [
       {
         "status_code": "need_tax_review",
         "notes": "",
         "created_by": "",
-        "created_at": "2023-01-18 17:10:34.05894"
+        "created_at": "2023-01-18T17:10:34Z"
       },
       {
         "status_code": "tax_approved",
         "notes": "",
         "created_by": "Firman S",
-        "created_at": "2023-01-19 17:10:34.05894"
+        "created_at": "2023-01-19T17:10:34Z"
       }
     ],
     "referral_affiliate": {
@@ -1139,22 +1139,22 @@
     "commission_nett": 21608,
     "commission_type": "regular",
     "notes": "test notes",
-    "last_sync_at": "2023-01-18 17:10:34.05894",
+    "last_sync_at": "2023-01-18T17:10:34Z",
     "last_status": "need_tax_review",
-    "created_at": "2023-01-18 17:10:34.05894",
-    "updated_at": "2023-01-18 17:10:34.05894",
+    "created_at": "2023-01-18T17:10:34Z",
+    "updated_at": "2023-01-18T17:10:34Z",
     "disbursement_histories": [
       {
         "status_code": "need_tax_review",
         "notes": "",
         "created_by": "",
-        "created_at": "2023-01-18 17:10:34.05894"
+        "created_at": "2023-01-18T17:10:34Z"
       },
       {
         "status_code": "tax_approved",
         "notes": "",
         "created_by": "Firman S",
-        "created_at": "2023-01-19 17:10:34.05894"
+        "created_at": "2023-01-19T17:10:34Z"
       }
     ],
     "referral_affiliate": {
@@ -1190,28 +1190,28 @@
     "commission_nett": 21608,
     "commission_type": "regular",
     "notes": "test notes",
-    "last_sync_at": "2023-01-18 17:10:34.05894",
+    "last_sync_at": "2023-01-18T17:10:34Z",
     "last_status": "commission_granted",
-    "created_at": "2023-01-18 17:10:34.05894",
-    "updated_at": "2023-01-18 17:10:34.05894",
+    "created_at": "2023-01-18T17:10:34Z",
+    "updated_at": "2023-01-18T17:10:34Z",
     "disbursement_histories": [
       {
         "status_code": "need_tax_review",
         "notes": "",
         "created_by": "",
-        "created_at": "2023-01-18 17:10:34.05894"
+        "created_at": "2023-01-18T17:10:34Z"
       },
       {
         "status_code": "tax_approved",
         "notes": "",
         "created_by": "Firman S",
-        "created_at": "2023-01-19 17:10:34.05894"
+        "created_at": "2023-01-19T17:10:34Z"
       },
       {
         "status_code": "commission_granted",
         "notes": "",
         "created_by": "Firman S",
-        "created_at": "2023-01-20 17:10:34.05894"
+        "created_at": "2023-01-20T17:10:34Z"
       }
     ],
     "referral_affiliate": {
@@ -1247,28 +1247,28 @@
     "commission_nett": 21608,
     "commission_type": "regular",
     "notes": "test notes",
-    "last_sync_at": "2023-01-18 17:10:34.05894",
+    "last_sync_at": "2023-01-18T17:10:34Z",
     "last_status": "commission_granted",
-    "created_at": "2023-01-18 17:10:34.05894",
-    "updated_at": "2023-01-18 17:10:34.05894",
+    "created_at": "2023-01-18T17:10:34Z",
+    "updated_at": "2023-01-18T17:10:34Z",
     "disbursement_histories": [
       {
         "status_code": "need_tax_review",
         "notes": "",
         "created_by": "",
-        "created_at": "2023-01-18 17:10:34.05894"
+        "created_at": "2023-01-18T17:10:34Z"
       },
       {
         "status_code": "tax_approved",
         "notes": "",
         "created_by": "Firman S",
-        "created_at": "2023-01-19 17:10:34.05894"
+        "created_at": "2023-01-19T17:10:34Z"
       },
       {
         "status_code": "commission_granted",
         "notes": "",
         "created_by": "Firman S",
-        "created_at": "2023-01-20 17:10:34.05894"
+        "created_at": "2023-01-20T17:10:34Z"
       }
     ],
     "referral_affiliate": {
@@ -1304,28 +1304,28 @@
     "commission_nett": 21608,
     "commission_type": "regular",
     "notes": "",
-    "last_sync_at": "2023-01-18 17:10:34.05894",
+    "last_sync_at": "2023-01-18T17:10:34Z",
     "last_status": "commission_granted",
-    "created_at": "2023-01-18 17:10:34.05894",
-    "updated_at": "2023-01-18 17:10:34.05894",
+    "created_at": "2023-01-18T17:10:34Z",
+    "updated_at": "2023-01-18T17:10:34Z",
     "disbursement_histories": [
       {
         "status_code": "need_tax_review",
         "notes": "",
         "created_by": "",
-        "created_at": "2023-01-18 17:10:34.05894"
+        "created_at": "2023-01-18T17:10:34Z"
       },
       {
         "status_code": "tax_approved",
         "notes": "",
         "created_by": "Firman S",
-        "created_at": "2023-01-19 17:10:34.05894"
+        "created_at": "2023-01-19T17:10:34Z"
       },
       {
         "status_code": "commission_granted",
         "notes": "",
         "created_by": "Firman S",
-        "created_at": "2023-01-20 17:10:34.05894"
+        "created_at": "2023-01-20T17:10:34Z"
       }
     ],
     "referral_affiliate": {
@@ -1363,26 +1363,26 @@
     "notes": "",
     "last_sync_at": "",
     "last_status": "commission_granted",
-    "created_at": "2023-01-18 17:10:34.05894",
-    "updated_at": "2023-01-18 17:10:34.05894",
+    "created_at": "2023-01-18T17:10:34Z",
+    "updated_at": "2023-01-18T17:10:34Z",
     "disbursement_histories": [
       {
         "status_code": "need_tax_review",
         "notes": "",
         "created_by": "",
-        "created_at": "2023-01-18 17:10:34.05894"
+        "created_at": "2023-01-18T17:10:34Z"
       },
       {
         "status_code": "tax_approved",
         "notes": "",
         "created_by": "Firman S",
-        "created_at": "2023-01-19 17:10:34.05894"
+        "created_at": "2023-01-19T17:10:34Z"
       },
       {
         "status_code": "commission_granted",
         "notes": "",
         "created_by": "Firman S",
-        "created_at": "2023-01-20 17:10:34.05894"
+        "created_at": "2023-01-20T17:10:34Z"
       }
     ],
     "referral_affiliate": {
@@ -1420,26 +1420,26 @@
     "notes": "",
     "last_sync_at": "",
     "last_status": "commission_rejected",
-    "created_at": "2023-01-18 17:10:34.05894",
-    "updated_at": "2023-01-18 17:10:34.05894",
+    "created_at": "2023-01-18T17:10:34Z",
+    "updated_at": "2023-01-18T17:10:34Z",
     "disbursement_histories": [
       {
         "status_code": "need_tax_review",
         "notes": "",
         "created_by": "",
-        "created_at": "2023-01-18 17:10:34.05894"
+        "created_at": "2023-01-18T17:10:34Z"
       },
       {
         "status_code": "tax_approved",
         "notes": "",
         "created_by": "Firman S",
-        "created_at": "2023-01-19 17:10:34.05894"
+        "created_at": "2023-01-19T17:10:34Z"
       },
       {
         "status_code": "commission_rejected",
         "notes": "notes",
         "created_by": "Firman S",
-        "created_at": "2023-01-20 17:10:34.05894"
+        "created_at": "2023-01-20T17:10:34Z"
       }
     ],
     "referral_affiliate": {
@@ -1475,28 +1475,28 @@
     "commission_nett": 21608,
     "commission_type": "regular",
     "notes": "",
-    "last_sync_at": "",
+    "last_sync_at": "2023-01-21T17:10:34Z",
     "last_status": "commission_rejected",
-    "created_at": "2023-01-18 17:10:34.05894",
-    "updated_at": "2023-01-18 17:10:34.05894",
+    "created_at": "2023-01-18T17:10:34Z",
+    "updated_at": "2023-01-18T17:10:34Z",
     "disbursement_histories": [
       {
         "status_code": "need_tax_review",
         "notes": "",
         "created_by": "",
-        "created_at": "2023-01-18 17:10:34.05894"
+        "created_at": "2023-01-18T17:10:34Z"
       },
       {
         "status_code": "tax_approved",
         "notes": "",
         "created_by": "Firman S",
-        "created_at": "2023-01-19 17:10:34.05894"
+        "created_at": "2023-01-19T17:10:34Z"
       },
       {
         "status_code": "commission_rejected",
         "notes": "notes",
         "created_by": "Firman S",
-        "created_at": "2023-01-20 17:10:34.05894"
+        "created_at": "2023-01-20T17:10:34Z"
       }
     ],
     "referral_affiliate": {
@@ -1532,34 +1532,34 @@
     "commission_nett": 21608,
     "commission_type": "regular",
     "notes": "",
-    "last_sync_at": "2023-01-18 17:10:34.05894",
+    "last_sync_at": "2023-01-18T17:10:34Z",
     "last_status": "paid",
-    "created_at": "2023-01-18 17:10:34.05894",
-    "updated_at": "2023-01-18 17:10:34.05894",
+    "created_at": "2023-01-18T17:10:34Z",
+    "updated_at": "2023-01-18T17:10:34Z",
     "disbursement_histories": [
       {
         "status_code": "need_tax_review",
         "notes": "",
         "created_by": "",
-        "created_at": "2023-01-18 17:10:34.05894"
+        "created_at": "2023-01-18T17:10:34Z"
       },
       {
         "status_code": "tax_approved",
         "notes": "",
         "created_by": "Firman S",
-        "created_at": "2023-01-19 17:10:34.05894"
+        "created_at": "2023-01-19T17:10:34Z"
       },
       {
         "status_code": "commission_granted",
         "notes": "",
         "created_by": "Firman S",
-        "created_at": "2023-01-20 17:10:34.05894"
+        "created_at": "2023-01-20T17:10:34Z"
       },
       {
         "status_code": "paid",
         "notes": "",
         "created_by": "Firman S",
-        "created_at": "2023-020-19 17:10:34.05894"
+        "created_at": "2023-020-19T17:10:34Z"
       }
     ],
     "referral_affiliate": {
@@ -1595,34 +1595,34 @@
     "commission_nett": 21608,
     "commission_type": "regular",
     "notes": "",
-    "last_sync_at": "2023-01-18 17:10:34.05894",
+    "last_sync_at": "2023-01-18T17:10:34Z",
     "last_status": "paid",
-    "created_at": "2023-01-18 17:10:34.05894",
-    "updated_at": "2023-01-18 17:10:34.05894",
+    "created_at": "2023-01-18T17:10:34Z",
+    "updated_at": "2023-01-18T17:10:34Z",
     "disbursement_histories": [
       {
         "status_code": "need_tax_review",
         "notes": "",
         "created_by": "",
-        "created_at": "2023-01-18 17:10:34.05894"
+        "created_at": "2023-01-18T17:10:34Z"
       },
       {
         "status_code": "tax_approved",
         "notes": "",
         "created_by": "Firman S",
-        "created_at": "2023-01-19 17:10:34.05894"
+        "created_at": "2023-01-19T17:10:34Z"
       },
       {
         "status_code": "commission_granted",
         "notes": "",
         "created_by": "Firman S",
-        "created_at": "2023-01-20 17:10:34.05894"
+        "created_at": "2023-01-20T17:10:34Z"
       },
       {
         "status_code": "paid",
         "notes": "",
         "created_by": "Firman S",
-        "created_at": "2023-020-19 17:10:34.05894"
+        "created_at": "2023-020-19T17:10:34Z"
       }
     ],
     "referral_affiliate": {
@@ -1658,34 +1658,34 @@
     "commission_nett": 21608,
     "commission_type": "regular",
     "notes": "test notes",
-    "last_sync_at": "2023-01-18 17:10:34.05894",
+    "last_sync_at": "2023-01-18T17:10:34Z",
     "last_status": "paid",
-    "created_at": "2023-01-18 17:10:34.05894",
-    "updated_at": "2023-01-18 17:10:34.05894",
+    "created_at": "2023-01-18T17:10:34Z",
+    "updated_at": "2023-01-18T17:10:34Z",
     "disbursement_histories": [
       {
         "status_code": "need_tax_review",
         "notes": "",
         "created_by": "",
-        "created_at": "2023-01-18 17:10:34.05894"
+        "created_at": "2023-01-18T17:10:34Z"
       },
       {
         "status_code": "tax_approved",
         "notes": "",
         "created_by": "Firman S",
-        "created_at": "2023-01-19 17:10:34.05894"
+        "created_at": "2023-01-19T17:10:34Z"
       },
       {
         "status_code": "commission_granted",
         "notes": "",
         "created_by": "Firman S",
-        "created_at": "2023-01-20 17:10:34.05894"
+        "created_at": "2023-01-20T17:10:34Z"
       },
       {
         "status_code": "paid",
         "notes": "",
         "created_by": "Firman S",
-        "created_at": "2023-020-19 17:10:34.05894"
+        "created_at": "2023-020-19T17:10:34Z"
       }
     ],
     "referral_affiliate": {
@@ -1721,34 +1721,34 @@
     "commission_nett": 21608,
     "commission_type": "regular",
     "notes": "test notes",
-    "last_sync_at": "2023-01-18 17:10:34.05894",
+    "last_sync_at": "2023-01-20T17:10:34Z",
     "last_status": "failed",
-    "created_at": "2023-01-18 17:10:34.05894",
-    "updated_at": "2023-01-18 17:10:34.05894",
+    "created_at": "2023-01-18T17:10:34Z",
+    "updated_at": "2023-01-18T17:10:34Z",
     "disbursement_histories": [
       {
         "status_code": "need_tax_review",
         "notes": "",
         "created_by": "",
-        "created_at": "2023-01-18 17:10:34.05894"
+        "created_at": "2023-01-18T17:10:34Z"
       },
       {
         "status_code": "tax_approved",
         "notes": "",
         "created_by": "Firman S",
-        "created_at": "2023-01-19 17:10:34.05894"
+        "created_at": "2023-01-19T17:10:34Z"
       },
       {
         "status_code": "commission_granted",
         "notes": "",
         "created_by": "Firman S",
-        "created_at": "2023-01-20 17:10:34.05894"
+        "created_at": "2023-01-20T17:10:34Z"
       },
       {
         "status_code": "failed",
         "notes": "test notes",
         "created_by": "Firman S",
-        "created_at": "2023-01-21 17:10:34.05894"
+        "created_at": "2023-01-21T17:10:34Z"
       }
     ],
     "referral_affiliate": {
@@ -1784,34 +1784,34 @@
     "commission_nett": 21608,
     "commission_type": "regular",
     "notes": "test notes",
-    "last_sync_at": "2023-01-18 17:10:34.05894",
+    "last_sync_at": "2023-01-22T17:10:34Z",
     "last_status": "failed",
-    "created_at": "2023-01-18 17:10:34.05894",
-    "updated_at": "2023-01-18 17:10:34.05894",
+    "created_at": "2023-01-18T17:10:34Z",
+    "updated_at": "2023-01-18T17:10:34Z",
     "disbursement_histories": [
       {
         "status_code": "need_tax_review",
         "notes": "",
         "created_by": "",
-        "created_at": "2023-01-18 17:10:34.05894"
+        "created_at": "2023-01-18T17:10:34Z"
       },
       {
         "status_code": "tax_approved",
         "notes": "",
         "created_by": "Firman S",
-        "created_at": "2023-01-19 17:10:34.05894"
+        "created_at": "2023-01-19T17:10:34Z"
       },
       {
         "status_code": "commission_granted",
         "notes": "",
         "created_by": "Firman S",
-        "created_at": "2023-01-20 17:10:34.05894"
+        "created_at": "2023-01-20T17:10:34Z"
       },
       {
         "status_code": "failed",
         "notes": "test notes",
         "created_by": "Firman S",
-        "created_at": "2023-01-21 17:10:34.05894"
+        "created_at": "2023-01-21T17:10:34Z"
       }
     ],
     "referral_affiliate": {
