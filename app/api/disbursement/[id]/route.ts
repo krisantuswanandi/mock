@@ -8,10 +8,25 @@ export async function GET(
   const id = params.id;
   const disbursement = disbursements.find((d) => `${d.id}` === id);
 
-  return NextResponse.json(disbursement);
+  if (disbursement) {
+    return NextResponse.json(disbursement);
+  } else {
+    return NextResponse.json(
+      {
+        message: "Data not found",
+      },
+      { status: 404 }
+    );
+  }
 }
 
 export async function POST() {
+  return NextResponse.json({
+    message: "OK",
+  });
+}
+
+export async function PUT() {
   return NextResponse.json({
     message: "OK",
   });
