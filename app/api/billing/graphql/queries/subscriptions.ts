@@ -2,45 +2,36 @@ import data from "@/data/subscriptions.json";
 
 const subscriptions = (
   _: any,
-  { page = 1, first = 10, search, sort, application, status }: any
+  { page = 1, first = 10, search, sortBy, filterBy }: any
 ) => {
-  let nodes = data;
+  let nodes = [...data];
   let totalCount = 0;
 
   // sort
-  if (sort) {
-    const [sortBy, sortDir] = sort.split(".");
+  Object.keys(sortBy).forEach((id) => {
+    if (id !== "appName") {
+      const attr = id as keyof (typeof nodes)[number];
+      const dir = sortBy[id] === "ASC" ? -1 : 1;
 
-    if (sortBy === "id") {
       nodes.sort((a, b) => {
-        if (a.serialNumber < b.serialNumber) {
-          return sortDir === "asc" ? -1 : 1;
+        if (a[attr] < b[attr]) {
+          return 1 * dir;
+        } else if (a[attr] > b[attr]) {
+          return -1 * dir;
+        } else {
+          return 0;
         }
-        if (a.serialNumber > b.serialNumber) {
-          return sortDir === "asc" ? 1 : -1;
-        }
-        return 0;
-      });
-    } else if (sortBy === "company") {
-      nodes.sort((a, b) => {
-        if (a.companyName < b.companyName) {
-          return sortDir === "asc" ? -1 : 1;
-        }
-        if (a.companyName > b.companyName) {
-          return sortDir === "asc" ? 1 : -1;
-        }
-        return 0;
       });
     }
-  }
+  });
 
   // filter
-  if (status) {
-    nodes = nodes.filter((n) => n.status === status);
+  if (filterBy.app) {
+    nodes = nodes.filter((n) => n.app.id === filterBy.app);
   }
 
-  if (application) {
-    nodes = nodes.filter((n) => n.app.id === application);
+  if (filterBy.status) {
+    nodes = nodes.filter((n) => n.status === filterBy.status);
   }
 
   // search

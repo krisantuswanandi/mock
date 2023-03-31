@@ -4,9 +4,10 @@ import queries from "./queries";
 const schema = createSchema({
   typeDefs: `
     type Query {
-      subscriptions (page: Int, first: Int, search: String, sort: String, application: String, status: String, company: String, activation: String, activeDate: String, endDate: String, paymentDate: String): SubscriptionNodes
-      subscription (id: String): Subscription
+      subscriptions (page: Int, first: Int, search: String, sortBy: SubscriptionsSortByInput, filterBy: SubscriptionsFilterByInput): SubscriptionNodes
+      subscription (id: Int): Subscription
       apps: AppNodes
+      companies (search: String): CompanyNodes
     }
     
     type SubscriptionNodes {
@@ -15,7 +16,7 @@ const schema = createSchema({
     }
     
     type Subscription {
-      id: String
+      id: Int
       serialNumber: String
       companyBrandName: String
       companyName: String
@@ -31,9 +32,48 @@ const schema = createSchema({
     }
     
     type App {
-      id: String
+      id: Int
       name: String
-      type: String
+      package: String
+    }
+
+    type CompanyNodes {
+      nodes: [Company]
+    }
+    
+    type Company {
+      id: Int
+      name: String
+    }
+
+    input SubscriptionsFilterByInput {
+      app: Int
+      status: String
+      companyId: [String]
+      companyName: [String]
+      activationDateAvailability: Boolean
+      activeDate: DateRangeInput
+      endDate: DateRangeInput
+      paymentDate: DateRangeInput
+    }
+
+    input SubscriptionsSortByInput {
+      serialNumber: Sort
+      companyName: Sort
+      appName: Sort
+      activeFrom: Sort
+      endAt: Sort
+      status: Sort
+    }
+
+    input DateRangeInput {
+      start: String
+      end: String
+    }
+
+    enum Sort {
+      ASC
+      DESC
     }
   `,
   resolvers: {

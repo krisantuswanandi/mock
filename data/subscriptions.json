@@ -1,419 +1,419 @@
 [
   {
-    "id": "1",
+    "id": 1,
     "serialNumber": "MS-22070000001",
     "companyBrandName": "Inovasi Semesta",
     "companyName": "PT. Inovasi Semesta",
     "companyId": "192501",
     "app": {
-      "id": "1",
+      "id": 1,
       "name": "Talenta",
-      "type": "Starter"
+      "package": "Starter"
     },
     "activeFrom": "2019-01-01T10:34:00Z",
     "endAt": "2020-01-01T10:34:00Z",
     "status": "voided"
   },
   {
-    "id": "2",
+    "id": 2,
     "serialNumber": "MS-22070000002",
     "companyBrandName": "Alam Nusantara",
     "companyName": "PT. Alam Nusantara",
     "companyId": "192502",
     "app": {
-      "id": "1",
+      "id": 1,
       "name": "Talenta",
-      "type": "Enterprise"
+      "package": "Enterprise"
     },
     "activeFrom": "2021-01-01T10:34:00Z",
-    "endAt": "2022-01-01T10:34:00Z",
+    "endAt": "",
     "status": "locked"
   },
   {
-    "id": "3",
+    "id": 3,
     "serialNumber": "MS-22070000003",
     "companyBrandName": "Flora Kultura",
     "companyName": "PT. Flora Kultura",
     "companyId": "192503",
     "app": {
-      "id": "2",
+      "id": 2,
       "name": "Jurnal",
-      "type": "Trial Enterprise Plus"
+      "package": "Trial Enterprise Plus"
     },
     "activeFrom": "2022-08-01T10:34:00Z",
     "endAt": "2022-08-31T10:34:00Z",
     "status": "active"
   },
   {
-    "id": "4",
+    "id": 4,
     "serialNumber": "MS-22070000004",
     "companyBrandName": "Agro Tekno",
     "companyName": "PT. Agro Tekno",
     "companyId": "192504",
     "app": {
-      "id": "2",
+      "id": 2,
       "name": "Jurnal",
-      "type": "Enterprise Plus"
+      "package": "Enterprise Plus"
     },
     "activeFrom": "2023-01-01T10:34:00Z",
     "endAt": "2024-01-01T10:34:00Z",
     "status": "inactive"
   },
   {
-    "id": "5",
+    "id": 5,
     "serialNumber": "MS-22070000005",
     "companyBrandName": "Copy Paste 01",
     "companyName": "PT. Copy Paste 01",
     "companyId": "192505",
     "app": {
-      "id": "2",
+      "id": 2,
       "name": "Jurnal",
-      "type": "Enterprise Plus"
+      "package": "Enterprise Plus"
     },
     "activeFrom": "2023-01-01T10:34:00Z",
     "endAt": "2024-01-01T10:34:00Z",
     "status": "inactive"
   },
   {
-    "id": "6",
+    "id": 6,
     "serialNumber": "MS-22070000006",
     "companyBrandName": "Copy Paste 02",
     "companyName": "PT. Copy Paste 02",
     "companyId": "192506",
     "app": {
-      "id": "2",
+      "id": 2,
       "name": "Jurnal",
-      "type": "Enterprise Plus"
+      "package": "Enterprise Plus"
     },
-    "activeFrom": "2023-01-01T10:34:00Z",
-    "endAt": "2024-01-01T10:34:00Z",
+    "activeFrom": "",
+    "endAt": "",
     "status": "inactive"
   },
   {
-    "id": "7",
+    "id": 7,
     "serialNumber": "MS-22070000007",
     "companyBrandName": "Copy Paste 03",
     "companyName": "PT. Copy Paste 03",
     "companyId": "192507",
     "app": {
-      "id": "2",
+      "id": 2,
       "name": "Jurnal",
-      "type": "Enterprise Plus"
+      "package": "Enterprise Plus"
     },
     "activeFrom": "2023-01-01T10:34:00Z",
     "endAt": "2024-01-01T10:34:00Z",
     "status": "inactive"
   },
   {
-    "id": "8",
+    "id": 8,
     "serialNumber": "MS-22070000008",
     "companyBrandName": "Copy Paste 04",
     "companyName": "PT. Copy Paste 04",
     "companyId": "192508",
     "app": {
-      "id": "2",
+      "id": 2,
       "name": "Jurnal",
-      "type": "Enterprise Plus"
+      "package": "Enterprise Plus"
     },
     "activeFrom": "2023-01-01T10:34:00Z",
     "endAt": "2024-01-01T10:34:00Z",
     "status": "inactive"
   },
   {
-    "id": "9",
+    "id": 9,
     "serialNumber": "MS-22070000009",
     "companyBrandName": "Copy Paste 08",
     "companyName": "PT. Copy Paste 08",
     "companyId": "192509",
     "app": {
-      "id": "2",
+      "id": 2,
       "name": "Jurnal",
-      "type": "Enterprise Plus"
+      "package": "Enterprise Plus"
     },
     "activeFrom": "2023-01-01T10:34:00Z",
     "endAt": "2024-01-01T10:34:00Z",
     "status": "inactive"
   },
   {
-    "id": "10",
+    "id": 10,
     "serialNumber": "MS-22070000010",
     "companyBrandName": "Copy Paste 09",
     "companyName": "PT. Copy Paste 09",
     "companyId": "192510",
     "app": {
-      "id": "2",
+      "id": 2,
       "name": "Jurnal",
-      "type": "Enterprise Plus"
+      "package": "Enterprise Plus"
     },
     "activeFrom": "2023-01-01T10:34:00Z",
     "endAt": "2024-01-01T10:34:00Z",
     "status": "inactive"
   },
   {
-    "id": "11",
+    "id": 11,
     "serialNumber": "MS-22070000011",
     "companyBrandName": "Copy Paste 10",
     "companyName": "PT. Copy Paste 10",
     "companyId": "192511",
     "app": {
-      "id": "2",
+      "id": 2,
       "name": "Jurnal",
-      "type": "Enterprise Plus"
+      "package": "Enterprise Plus"
     },
     "activeFrom": "2023-01-01T10:34:00Z",
     "endAt": "2024-01-01T10:34:00Z",
     "status": "inactive"
   },
   {
-    "id": "12",
+    "id": 12,
     "serialNumber": "MS-22070000012",
     "companyBrandName": "Copy Paste 05",
     "companyName": "PT. Copy Paste 05",
     "companyId": "192512",
     "app": {
-      "id": "2",
+      "id": 2,
       "name": "Jurnal",
-      "type": "Enterprise Plus"
+      "package": "Enterprise Plus"
     },
     "activeFrom": "2023-01-01T10:34:00Z",
     "endAt": "2024-01-01T10:34:00Z",
     "status": "inactive"
   },
   {
-    "id": "13",
+    "id": 13,
     "serialNumber": "MS-22070000013",
     "companyBrandName": "Copy Paste 07",
     "companyName": "PT. Copy Paste 07",
     "companyId": "192513",
     "app": {
-      "id": "2",
+      "id": 2,
       "name": "Jurnal",
-      "type": "Enterprise Plus"
+      "package": "Enterprise Plus"
     },
     "activeFrom": "2023-01-01T10:34:00Z",
     "endAt": "2024-01-01T10:34:00Z",
     "status": "inactive"
   },
   {
-    "id": "14",
+    "id": 14,
     "serialNumber": "MS-22070000014",
     "companyBrandName": "Copy Paste 12",
     "companyName": "PT. Copy Paste 12",
     "companyId": "192514",
     "app": {
-      "id": "2",
+      "id": 2,
       "name": "Jurnal",
-      "type": "Enterprise Plus"
+      "package": "Enterprise Plus"
     },
     "activeFrom": "2023-01-01T10:34:00Z",
     "endAt": "2024-01-01T10:34:00Z",
     "status": "inactive"
   },
   {
-    "id": "15",
+    "id": 15,
     "serialNumber": "MS-22070000015",
     "companyBrandName": "Copy Paste 13",
     "companyName": "PT. Copy Paste 13",
     "companyId": "192515",
     "app": {
-      "id": "2",
+      "id": 2,
       "name": "Jurnal",
-      "type": "Enterprise Plus"
+      "package": "Enterprise Plus"
     },
     "activeFrom": "2023-01-01T10:34:00Z",
     "endAt": "2024-01-01T10:34:00Z",
     "status": "inactive"
   },
   {
-    "id": "16",
+    "id": 16,
     "serialNumber": "MS-22070000016",
     "companyBrandName": "Copy Paste 14",
     "companyName": "PT. Copy Paste 14",
     "companyId": "192516",
     "app": {
-      "id": "2",
+      "id": 2,
       "name": "Jurnal",
-      "type": "Enterprise Plus"
+      "package": "Enterprise Plus"
     },
     "activeFrom": "2023-01-01T10:34:00Z",
     "endAt": "2024-01-01T10:34:00Z",
     "status": "inactive"
   },
   {
-    "id": "17",
+    "id": 17,
     "serialNumber": "MS-22070000017",
     "companyBrandName": "Copy Paste 20",
     "companyName": "PT. Copy Paste 20",
     "companyId": "192517",
     "app": {
-      "id": "2",
+      "id": 2,
       "name": "Jurnal",
-      "type": "Enterprise Plus"
+      "package": "Enterprise Plus"
     },
     "activeFrom": "2023-01-01T10:34:00Z",
     "endAt": "2024-01-01T10:34:00Z",
     "status": "inactive"
   },
   {
-    "id": "18",
+    "id": 18,
     "serialNumber": "MS-22070000018",
     "companyBrandName": "Copy Paste 19",
     "companyName": "PT. Copy Paste 19",
     "companyId": "192518",
     "app": {
-      "id": "2",
+      "id": 2,
       "name": "Jurnal",
-      "type": "Enterprise Plus"
+      "package": "Enterprise Plus"
     },
     "activeFrom": "2023-01-01T10:34:00Z",
     "endAt": "2024-01-01T10:34:00Z",
     "status": "inactive"
   },
   {
-    "id": "19",
+    "id": 19,
     "serialNumber": "MS-22070000019",
     "companyBrandName": "Copy Paste 18",
     "companyName": "PT. Copy Paste 18",
     "companyId": "192519",
     "app": {
-      "id": "2",
+      "id": 2,
       "name": "Jurnal",
-      "type": "Enterprise Plus"
+      "package": "Enterprise Plus"
     },
     "activeFrom": "2023-01-01T10:34:00Z",
     "endAt": "2024-01-01T10:34:00Z",
     "status": "inactive"
   },
   {
-    "id": "20",
+    "id": 20,
     "serialNumber": "MS-22070000020",
     "companyBrandName": "Copy Paste 17",
     "companyName": "PT. Copy Paste 17",
     "companyId": "192520",
     "app": {
-      "id": "2",
+      "id": 2,
       "name": "Jurnal",
-      "type": "Enterprise Plus"
+      "package": "Enterprise Plus"
     },
     "activeFrom": "2023-01-01T10:34:00Z",
     "endAt": "2024-01-01T10:34:00Z",
     "status": "inactive"
   },
   {
-    "id": "21",
+    "id": 21,
     "serialNumber": "MS-22070000021",
     "companyBrandName": "Copy Paste 06",
     "companyName": "PT. Copy Paste 06",
     "companyId": "192521",
     "app": {
-      "id": "2",
+      "id": 2,
       "name": "Jurnal",
-      "type": "Enterprise Plus"
+      "package": "Enterprise Plus"
     },
     "activeFrom": "2023-01-01T10:34:00Z",
     "endAt": "2024-01-01T10:34:00Z",
     "status": "inactive"
   },
   {
-    "id": "22",
+    "id": 22,
     "serialNumber": "MS-22070000022",
     "companyBrandName": "Copy Paste 11",
     "companyName": "PT. Copy Paste 11",
     "companyId": "192522",
     "app": {
-      "id": "2",
+      "id": 2,
       "name": "Jurnal",
-      "type": "Enterprise Plus"
+      "package": "Enterprise Plus"
     },
     "activeFrom": "2023-01-01T10:34:00Z",
     "endAt": "2024-01-01T10:34:00Z",
     "status": "inactive"
   },
   {
-    "id": "23",
+    "id": 23,
     "serialNumber": "MS-22070000023",
     "companyBrandName": "Copy Paste 15",
     "companyName": "PT. Copy Paste 15",
     "companyId": "192523",
     "app": {
-      "id": "2",
+      "id": 2,
       "name": "Jurnal",
-      "type": "Enterprise Plus"
+      "package": "Enterprise Plus"
     },
     "activeFrom": "2023-01-01T10:34:00Z",
     "endAt": "2024-01-01T10:34:00Z",
     "status": "inactive"
   },
   {
-    "id": "24",
+    "id": 24,
     "serialNumber": "MS-22070000024",
     "companyBrandName": "Copy Paste 16",
     "companyName": "PT. Copy Paste 16",
     "companyId": "192524",
     "app": {
-      "id": "2",
+      "id": 2,
       "name": "Jurnal",
-      "type": "Enterprise Plus"
+      "package": "Enterprise Plus"
     },
     "activeFrom": "2023-01-01T10:34:00Z",
     "endAt": "2024-01-01T10:34:00Z",
     "status": "inactive"
   },
   {
-    "id": "25",
+    "id": 25,
     "serialNumber": "MS-22070000025",
     "companyBrandName": "Copy Paste 21",
     "companyName": "PT. Copy Paste 21",
     "companyId": "192525",
     "app": {
-      "id": "2",
+      "id": 2,
       "name": "Jurnal",
-      "type": "Enterprise Plus"
+      "package": "Enterprise Plus"
     },
     "activeFrom": "2023-01-01T10:34:00Z",
     "endAt": "2024-01-01T10:34:00Z",
     "status": "inactive"
   },
   {
-    "id": "26",
+    "id": 26,
     "serialNumber": "MS-22070000026",
     "companyBrandName": "Copy Paste 22",
     "companyName": "PT. Copy Paste 22",
     "companyId": "192526",
     "app": {
-      "id": "2",
+      "id": 2,
       "name": "Jurnal",
-      "type": "Enterprise Plus"
+      "package": "Enterprise Plus"
     },
     "activeFrom": "2023-01-01T10:34:00Z",
     "endAt": "2024-01-01T10:34:00Z",
     "status": "inactive"
   },
   {
-    "id": "27",
+    "id": 27,
     "serialNumber": "MS-22070000027",
     "companyBrandName": "Copy Paste 23",
     "companyName": "PT. Copy Paste 23",
     "companyId": "192527",
     "app": {
-      "id": "2",
+      "id": 2,
       "name": "Jurnal",
-      "type": "Enterprise Plus"
+      "package": "Enterprise Plus"
     },
     "activeFrom": "2023-01-01T10:34:00Z",
     "endAt": "2024-01-01T10:34:00Z",
     "status": "inactive"
   },
   {
-    "id": "28",
+    "id": 28,
     "serialNumber": "MS-22070000028",
     "companyBrandName": "Copy Paste 24",
     "companyName": "PT. Copy Paste 24",
     "companyId": "192528",
     "app": {
-      "id": "2",
+      "id": 2,
       "name": "Jurnal",
-      "type": "Enterprise Plus"
+      "package": "Enterprise Plus"
     },
     "activeFrom": "2023-01-01T10:34:00Z",
     "endAt": "2024-01-01T10:34:00Z",

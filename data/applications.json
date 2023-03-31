@@ -1,18 +1,18 @@
 [
   {
-    "id": "1",
+    "id": 1,
     "name": "Talenta"
   },
   {
-    "id": "2",
+    "id": 2,
     "name": "Jurnal"
   },
   {
-    "id": "3",
+    "id": 3,
     "name": "Qontak"
   },
   {
-    "id": "4",
+    "id": 4,
     "name": "Klikpajak"
   }
 ]
