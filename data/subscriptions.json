@@ -5,14 +5,12 @@
     "companyBrandName": "Inovasi Semesta",
     "companyName": "PT. Inovasi Semesta",
     "companyId": "192501",
-    "app": {
-      "id": 1,
-      "name": "Talenta",
-      "package": "Starter"
-    },
+    "appId": 1,
+    "appName": "Talenta",
+    "packageName": "Starter",
     "activeFrom": "2019-01-01T10:34:00Z",
     "endAt": "2020-01-01T10:34:00Z",
-    "status": "voided"
+    "status": 3
   },
   {
     "id": 2,
@@ -20,14 +18,12 @@
     "companyBrandName": "Alam Nusantara",
     "companyName": "PT. Alam Nusantara",
     "companyId": "192502",
-    "app": {
-      "id": 1,
-      "name": "Talenta",
-      "package": "Enterprise"
-    },
+    "appId": 1,
+    "appName": "Talenta",
+    "packageName": "Enterprise",
     "activeFrom": "2021-01-01T10:34:00Z",
     "endAt": "",
-    "status": "locked"
+    "status": 1
   },
   {
     "id": 3,
@@ -35,14 +31,12 @@
     "companyBrandName": "Flora Kultura",
     "companyName": "PT. Flora Kultura",
     "companyId": "192503",
-    "app": {
-      "id": 2,
-      "name": "Jurnal",
-      "package": "Trial Enterprise Plus"
-    },
+    "appId": 2,
+    "appName": "Jurnal",
+    "packageName": "Trial Enterprise Plus",
     "activeFrom": "2022-08-01T10:34:00Z",
     "endAt": "2022-08-31T10:34:00Z",
-    "status": "active"
+    "status": 0
   },
   {
     "id": 4,
@@ -50,14 +44,12 @@
     "companyBrandName": "Agro Tekno",
     "companyName": "PT. Agro Tekno",
     "companyId": "192504",
-    "app": {
-      "id": 2,
-      "name": "Jurnal",
-      "package": "Enterprise Plus"
-    },
+    "appId": 2,
+    "appName": "Jurnal",
+    "packageName": "Enterprise Plus",
     "activeFrom": "2023-01-01T10:34:00Z",
     "endAt": "2024-01-01T10:34:00Z",
-    "status": "inactive"
+    "status": 2
   },
   {
     "id": 5,
@@ -65,14 +57,12 @@
     "companyBrandName": "Date Sample 01",
     "companyName": "PT. Date Sample 01",
     "companyId": "192505",
-    "app": {
-      "id": 2,
-      "name": "Jurnal",
-      "package": "Enterprise Plus"
-    },
+    "appId": 2,
+    "appName": "Jurnal",
+    "packageName": "Enterprise Plus",
     "activeFrom": "2023-01-01T10:34:00Z",
     "endAt": "2024-01-01T10:34:00Z",
-    "status": "inactive"
+    "status": 2
   },
   {
     "id": 6,
@@ -80,14 +70,12 @@
     "companyBrandName": "Date Sample 02",
     "companyName": "PT. Date Sample 02",
     "companyId": "192506",
-    "app": {
-      "id": 2,
-      "name": "Jurnal",
-      "package": "Enterprise Plus"
-    },
+    "appId": 2,
+    "appName": "Jurnal",
+    "packageName": "Enterprise Plus",
     "activeFrom": "",
     "endAt": "",
-    "status": "inactive"
+    "status": 2
   },
   {
     "id": 7,
@@ -95,14 +83,12 @@
     "companyBrandName": "Date Sample 03",
     "companyName": "PT. Date Sample 03",
     "companyId": "192507",
-    "app": {
-      "id": 2,
-      "name": "Jurnal",
-      "package": "Enterprise Plus"
-    },
+    "appId": 2,
+    "appName": "Jurnal",
+    "packageName": "Enterprise Plus",
     "activeFrom": "2023-01-01T10:34:00Z",
     "endAt": "2024-01-01T10:34:00Z",
-    "status": "inactive"
+    "status": 2
   },
   {
     "id": 8,
@@ -110,14 +96,12 @@
     "companyBrandName": "Date Sample 04",
     "companyName": "PT. Date Sample 04",
     "companyId": "192508",
-    "app": {
-      "id": 2,
-      "name": "Jurnal",
-      "package": "Enterprise Plus"
-    },
+    "appId": 2,
+    "appName": "Jurnal",
+    "packageName": "Enterprise Plus",
     "activeFrom": "2023-01-01T10:34:00Z",
     "endAt": "2024-01-01T10:34:00Z",
-    "status": "inactive"
+    "status": 2
   },
   {
     "id": 9,
@@ -125,14 +109,12 @@
     "companyBrandName": "Date Sample 08",
     "companyName": "PT. Date Sample 08",
     "companyId": "192509",
-    "app": {
-      "id": 2,
-      "name": "Jurnal",
-      "package": "Enterprise Plus"
-    },
+    "appId": 2,
+    "appName": "Jurnal",
+    "packageName": "Enterprise Plus",
     "activeFrom": "2023-01-01T10:34:00Z",
     "endAt": "2024-01-01T10:34:00Z",
-    "status": "inactive"
+    "status": 2
   },
   {
     "id": 10,
@@ -140,14 +122,12 @@
     "companyBrandName": "Date Sample 09",
     "companyName": "PT. Date Sample 09",
     "companyId": "192510",
-    "app": {
-      "id": 2,
-      "name": "Jurnal",
-      "package": "Enterprise Plus"
-    },
+    "appId": 2,
+    "appName": "Jurnal",
+    "packageName": "Enterprise Plus",
     "activeFrom": "2023-01-01T10:34:00Z",
     "endAt": "2024-01-01T10:34:00Z",
-    "status": "inactive"
+    "status": 2
   },
   {
     "id": 11,
@@ -155,14 +135,12 @@
     "companyBrandName": "Date Sample 10",
     "companyName": "PT. Date Sample 10",
     "companyId": "192511",
-    "app": {
-      "id": 2,
-      "name": "Jurnal",
-      "package": "Enterprise Plus"
-    },
+    "appId": 2,
+    "appName": "Jurnal",
+    "packageName": "Enterprise Plus",
     "activeFrom": "2023-01-01T10:34:00Z",
     "endAt": "2024-01-01T10:34:00Z",
-    "status": "inactive"
+    "status": 2
   },
   {
     "id": 12,
@@ -170,14 +148,12 @@
     "companyBrandName": "Date Sample 05",
     "companyName": "PT. Date Sample 05",
     "companyId": "192512",
-    "app": {
-      "id": 2,
-      "name": "Jurnal",
-      "package": "Enterprise Plus"
-    },
+    "appId": 2,
+    "appName": "Jurnal",
+    "packageName": "Enterprise Plus",
     "activeFrom": "2023-01-01T10:34:00Z",
     "endAt": "2024-01-01T10:34:00Z",
-    "status": "inactive"
+    "status": 2
   },
   {
     "id": 13,
@@ -185,14 +161,12 @@
     "companyBrandName": "Date Sample 07",
     "companyName": "PT. Date Sample 07",
     "companyId": "192513",
-    "app": {
-      "id": 2,
-      "name": "Jurnal",
-      "package": "Enterprise Plus"
-    },
+    "appId": 2,
+    "appName": "Jurnal",
+    "packageName": "Enterprise Plus",
     "activeFrom": "2023-01-01T10:34:00Z",
     "endAt": "2024-01-01T10:34:00Z",
-    "status": "inactive"
+    "status": 2
   },
   {
     "id": 14,
@@ -200,14 +174,12 @@
     "companyBrandName": "Date Sample 12",
     "companyName": "PT. Date Sample 12",
     "companyId": "192514",
-    "app": {
-      "id": 2,
-      "name": "Jurnal",
-      "package": "Enterprise Plus"
-    },
+    "appId": 2,
+    "appName": "Jurnal",
+    "packageName": "Enterprise Plus",
     "activeFrom": "2023-01-01T10:34:00Z",
     "endAt": "2024-01-01T10:34:00Z",
-    "status": "inactive"
+    "status": 2
   },
   {
     "id": 15,
@@ -215,14 +187,12 @@
     "companyBrandName": "Date Sample 13",
     "companyName": "PT. Date Sample 13",
     "companyId": "192515",
-    "app": {
-      "id": 2,
-      "name": "Jurnal",
-      "package": "Enterprise Plus"
-    },
+    "appId": 2,
+    "appName": "Jurnal",
+    "packageName": "Enterprise Plus",
     "activeFrom": "2023-01-01T10:34:00Z",
     "endAt": "2024-01-01T10:34:00Z",
-    "status": "inactive"
+    "status": 2
   },
   {
     "id": 16,
@@ -230,14 +200,12 @@
     "companyBrandName": "Date Sample 14",
     "companyName": "PT. Date Sample 14",
     "companyId": "192516",
-    "app": {
-      "id": 2,
-      "name": "Jurnal",
-      "package": "Enterprise Plus"
-    },
+    "appId": 2,
+    "appName": "Jurnal",
+    "packageName": "Enterprise Plus",
     "activeFrom": "2023-01-01T10:34:00Z",
     "endAt": "2024-01-01T10:34:00Z",
-    "status": "inactive"
+    "status": 2
   },
   {
     "id": 17,
@@ -245,14 +213,12 @@
     "companyBrandName": "Date Sample 20",
     "companyName": "PT. Date Sample 20",
     "companyId": "192517",
-    "app": {
-      "id": 2,
-      "name": "Jurnal",
-      "package": "Enterprise Plus"
-    },
+    "appId": 2,
+    "appName": "Jurnal",
+    "packageName": "Enterprise Plus",
     "activeFrom": "2023-01-01T10:34:00Z",
     "endAt": "2024-01-01T10:34:00Z",
-    "status": "inactive"
+    "status": 2
   },
   {
     "id": 18,
@@ -260,14 +226,12 @@
     "companyBrandName": "Date Sample 19",
     "companyName": "PT. Date Sample 19",
     "companyId": "192518",
-    "app": {
-      "id": 2,
-      "name": "Jurnal",
-      "package": "Enterprise Plus"
-    },
+    "appId": 2,
+    "appName": "Jurnal",
+    "packageName": "Enterprise Plus",
     "activeFrom": "2023-01-01T10:34:00Z",
     "endAt": "2024-01-01T10:34:00Z",
-    "status": "inactive"
+    "status": 2
   },
   {
     "id": 19,
@@ -275,14 +239,12 @@
     "companyBrandName": "Date Sample 18",
     "companyName": "PT. Date Sample 18",
     "companyId": "192519",
-    "app": {
-      "id": 2,
-      "name": "Jurnal",
-      "package": "Enterprise Plus"
-    },
+    "appId": 2,
+    "appName": "Jurnal",
+    "packageName": "Enterprise Plus",
     "activeFrom": "2023-01-01T10:34:00Z",
     "endAt": "2024-01-01T10:34:00Z",
-    "status": "inactive"
+    "status": 2
   },
   {
     "id": 20,
@@ -290,14 +252,12 @@
     "companyBrandName": "Date Sample 17",
     "companyName": "PT. Date Sample 17",
     "companyId": "192520",
-    "app": {
-      "id": 2,
-      "name": "Jurnal",
-      "package": "Enterprise Plus"
-    },
+    "appId": 2,
+    "appName": "Jurnal",
+    "packageName": "Enterprise Plus",
     "activeFrom": "2023-01-01T10:34:00Z",
     "endAt": "2024-01-01T10:34:00Z",
-    "status": "inactive"
+    "status": 2
   },
   {
     "id": 21,
@@ -305,14 +265,12 @@
     "companyBrandName": "Date Sample 06",
     "companyName": "PT. Date Sample 06",
     "companyId": "192521",
-    "app": {
-      "id": 2,
-      "name": "Jurnal",
-      "package": "Enterprise Plus"
-    },
+    "appId": 2,
+    "appName": "Jurnal",
+    "packageName": "Enterprise Plus",
     "activeFrom": "2023-01-01T10:34:00Z",
     "endAt": "2024-01-01T10:34:00Z",
-    "status": "inactive"
+    "status": 2
   },
   {
     "id": 22,
@@ -320,14 +278,12 @@
     "companyBrandName": "Date Sample 11",
     "companyName": "PT. Date Sample 11",
     "companyId": "192522",
-    "app": {
-      "id": 2,
-      "name": "Jurnal",
-      "package": "Enterprise Plus"
-    },
+    "appId": 2,
+    "appName": "Jurnal",
+    "packageName": "Enterprise Plus",
     "activeFrom": "2023-01-01T10:34:00Z",
     "endAt": "2024-01-01T10:34:00Z",
-    "status": "inactive"
+    "status": 2
   },
   {
     "id": 23,
@@ -335,14 +291,12 @@
     "companyBrandName": "Date Sample 15",
     "companyName": "PT. Date Sample 15",
     "companyId": "192523",
-    "app": {
-      "id": 2,
-      "name": "Jurnal",
-      "package": "Enterprise Plus"
-    },
+    "appId": 2,
+    "appName": "Jurnal",
+    "packageName": "Enterprise Plus",
     "activeFrom": "2023-01-01T10:34:00Z",
     "endAt": "2024-01-01T10:34:00Z",
-    "status": "inactive"
+    "status": 2
   },
   {
     "id": 24,
@@ -350,14 +304,12 @@
     "companyBrandName": "Date Sample 16",
     "companyName": "PT. Date Sample 16",
     "companyId": "192524",
-    "app": {
-      "id": 2,
-      "name": "Jurnal",
-      "package": "Enterprise Plus"
-    },
+    "appId": 2,
+    "appName": "Jurnal",
+    "packageName": "Enterprise Plus",
     "activeFrom": "2023-01-01T10:34:00Z",
     "endAt": "2024-01-01T10:34:00Z",
-    "status": "inactive"
+    "status": 2
   },
   {
     "id": 25,
@@ -365,14 +317,12 @@
     "companyBrandName": "Date Sample 21",
     "companyName": "PT. Date Sample 21",
     "companyId": "192525",
-    "app": {
-      "id": 2,
-      "name": "Jurnal",
-      "package": "Enterprise Plus"
-    },
+    "appId": 2,
+    "appName": "Jurnal",
+    "packageName": "Enterprise Plus",
     "activeFrom": "2023-01-01T10:34:00Z",
     "endAt": "2024-01-01T10:34:00Z",
-    "status": "inactive"
+    "status": 2
   },
   {
     "id": 26,
@@ -380,14 +330,12 @@
     "companyBrandName": "Date Sample 22",
     "companyName": "PT. Date Sample 22",
     "companyId": "192526",
-    "app": {
-      "id": 2,
-      "name": "Jurnal",
-      "package": "Enterprise Plus"
-    },
+    "appId": 2,
+    "appName": "Jurnal",
+    "packageName": "Enterprise Plus",
     "activeFrom": "2023-01-01T10:34:00Z",
     "endAt": "2024-01-01T10:34:00Z",
-    "status": "inactive"
+    "status": 2
   },
   {
     "id": 27,
@@ -395,14 +343,12 @@
     "companyBrandName": "Date Sample 23",
     "companyName": "PT. Date Sample 23",
     "companyId": "192527",
-    "app": {
-      "id": 2,
-      "name": "Jurnal",
-      "package": "Enterprise Plus"
-    },
+    "appId": 2,
+    "appName": "Jurnal",
+    "packageName": "Enterprise Plus",
     "activeFrom": "2023-01-01T10:34:00Z",
     "endAt": "2024-01-01T10:34:00Z",
-    "status": "inactive"
+    "status": 2
   },
   {
     "id": 28,
@@ -410,13 +356,11 @@
     "companyBrandName": "Date Sample 24",
     "companyName": "PT. Date Sample 24",
     "companyId": "192528",
-    "app": {
-      "id": 2,
-      "name": "Jurnal",
-      "package": "Enterprise Plus"
-    },
+    "appId": 2,
+    "appName": "Jurnal",
+    "packageName": "Enterprise Plus",
     "activeFrom": "2023-01-01T10:34:00Z",
     "endAt": "2024-01-01T10:34:00Z",
-    "status": "inactive"
+    "status": 2
   }
 ]

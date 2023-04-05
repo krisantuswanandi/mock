@@ -4,30 +4,33 @@ import queries from "./queries";
 const schema = createSchema({
   typeDefs: `
     type Query {
-      subscriptions (page: Int, first: Int, search: String, sortBy: SubscriptionsSortByInput, filterBy: SubscriptionsFilterByInput): SubscriptionNodes
-      subscription (id: Int): Subscription
-      apps: AppNodes
-      companies (search: String): CompanyNodes
+      subscriptions (page: Int, first: Int, search: String, sortBy: DashboardSubscriptionsSortByInput, filterBy: DashboardSubscriptionsFilterByInput): DashboardSubscriptionConnection
+      subscription (id: Int): DashboardSubscription
+      apps: AppConnection
+      companies (search: String): CompanyConnection
+      invoiceables (page: Int, first: Int, search: String, sortBy: InvoiceablesSortByInput, filterBy: InvoiceablesFilterByInput): InvoiceableConnection
     }
     
-    type SubscriptionNodes {
-      nodes: [Subscription]
+    type DashboardSubscriptionConnection {
+      nodes: [DashboardSubscription]
       totalCount: Int
     }
     
-    type Subscription {
+    type DashboardSubscription {
       id: Int
       serialNumber: String
       companyBrandName: String
       companyName: String
       companyId: String
-      app: App,
+      appId: Int,
+      appName: String,
+      packageName: String,
       activeFrom: String
       endAt: String
-      status: String
+      status: Int
     }
     
-    type AppNodes {
+    type AppConnection {
       nodes: [App]
     }
     
@@ -37,7 +40,7 @@ const schema = createSchema({
       package: String
     }
 
-    type CompanyNodes {
+    type CompanyConnection {
       nodes: [Company]
     }
     
@@ -46,24 +49,61 @@ const schema = createSchema({
       name: String
     }
 
-    input SubscriptionsFilterByInput {
+    type InvoiceableConnection {
+      nodes: [Invoiceable]
+      totalCount: Int
+    }
+    
+    type Invoiceable {
+      id: Int
+      serialNumber: String
+      createdAt: String
+      activeFrom: String
+      endAt: String
+      netAmount: Float
+      billingType: String
+      mrrType: String
+      status: Int
+      invoices: [Invoice]
+      salesOrderId: Int
+    }
+
+    type Invoice {
+      id: Int
+      status: Int
+      paymentUrl: String
+    }
+
+    input DashboardSubscriptionsFilterByInput {
       app: Int
-      status: String
+      status: Int
       companyId: [String]
-      companyName: [String]
       activationDateAvailability: Boolean
       activeDate: DateRangeInput
       endDate: DateRangeInput
       paymentDate: DateRangeInput
     }
 
-    input SubscriptionsSortByInput {
+    input DashboardSubscriptionsSortByInput {
       serialNumber: Sort
       companyName: Sort
       appName: Sort
       activeFrom: Sort
       endAt: Sort
       status: Sort
+    }
+
+    input InvoiceablesFilterByInput {
+      status: Int
+      activationDateAvailability: Boolean
+    }
+    
+    input InvoiceablesSortByInput {
+      serialNumber: Sort
+      createdAt: Sort
+      activeFrom: Sort
+      endAt: Sort
+      netAmount: Sort
     }
 
     input DateRangeInput {

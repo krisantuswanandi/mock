@@ -2,14 +2,14 @@ import data from "@/data/subscriptions.json";
 
 const subscriptions = (
   _: any,
-  { page = 1, first = 10, search, sortBy, filterBy }: any
+  { page = 1, first = 10, search = "", sortBy = {}, filterBy = {} }: any
 ) => {
   let nodes = [...data];
   let totalCount = 0;
 
   // sort
-  Object.keys(sortBy).forEach((id) => {
-    if (id !== "appName") {
+  sortBy &&
+    Object.keys(sortBy).forEach((id) => {
       const attr = id as keyof (typeof nodes)[number];
       const dir = sortBy[id] === "ASC" ? -1 : 1;
 
@@ -22,22 +22,21 @@ const subscriptions = (
           return 0;
         }
       });
-    }
-  });
+    });
 
   // filter
   if (filterBy.app) {
-    nodes = nodes.filter((n) => n.app.id === filterBy.app);
+    nodes = nodes.filter((n) => n.appId === filterBy.app);
   }
 
-  if (filterBy.status) {
+  if (filterBy.status !== null) {
     nodes = nodes.filter((n) => n.status === filterBy.status);
   }
 
   // search
   if (search) {
     nodes = nodes.filter((n) => {
-      return n.companyName.toLowerCase().includes(search.toLowerCase());
+      return n.serialNumber.toLowerCase().includes(search.toLowerCase());
     });
   }
 
