@@ -3,6 +3,7 @@ import subscription from "./subscription";
 import apps from "./apps";
 import companies from "./companies";
 import invoiceables from "./invoiceables";
+import invoiceableCount from "./invoiceableCount";
 
 const queries = {
   subscriptions,
@@ -10,6 +11,7 @@ const queries = {
   apps,
   companies,
   invoiceables,
+  invoiceableCount,
 };
 
 export default queries;

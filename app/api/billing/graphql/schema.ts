@@ -4,30 +4,35 @@ import queries from "./queries";
 const schema = createSchema({
   typeDefs: `
     type Query {
-      subscriptions (page: Int, first: Int, search: String, sortBy: DashboardSubscriptionsSortByInput, filterBy: DashboardSubscriptionsFilterByInput): DashboardSubscriptionConnection
-      subscription (id: Int): DashboardSubscription
+      subscriptions (page: Int, first: Int, search: String, sortBy: SubscriptionsSortByInput, filterBy: SubscriptionsFilterByInput): SubscriptionConnection
+      subscription (id: ID): Subscription
       apps: AppConnection
       companies (search: String): CompanyConnection
       invoiceables (page: Int, first: Int, search: String, sortBy: InvoiceablesSortByInput, filterBy: InvoiceablesFilterByInput): InvoiceableConnection
+      invoiceableCount (filterBy: InvoiceableCountFilterByInput): InvoiceableCount
     }
     
-    type DashboardSubscriptionConnection {
-      nodes: [DashboardSubscription]
-      totalCount: Int
+    type SubscriptionConnection {
+      nodes: [Subscription]
+      totalCount: Float
     }
     
-    type DashboardSubscription {
-      id: Int
+    type Subscription {
+      id: ID
       serialNumber: String
       companyBrandName: String
       companyName: String
       companyId: String
-      appId: Int,
-      appName: String,
-      packageName: String,
+      app: App,
+      mainPackage: SubscribedPackage,
       activeFrom: String
       endAt: String
       status: Int
+    }
+
+    type SubscribedPackage {
+      id: ID
+      name: String
     }
     
     type AppConnection {
@@ -35,7 +40,7 @@ const schema = createSchema({
     }
     
     type App {
-      id: Int
+      id: ID
       name: String
       package: String
     }
@@ -45,17 +50,17 @@ const schema = createSchema({
     }
     
     type Company {
-      id: Int
+      id: ID
       name: String
     }
 
     type InvoiceableConnection {
       nodes: [Invoiceable]
-      totalCount: Int
+      totalCount: Float
     }
     
     type Invoiceable {
-      id: Int
+      id: ID
       serialNumber: String
       createdAt: String
       activeFrom: String
@@ -65,26 +70,31 @@ const schema = createSchema({
       mrrType: String
       status: Int
       invoices: [Invoice]
-      salesOrderId: Int
+      salesOrderId: String
     }
 
     type Invoice {
-      id: Int
+      id: ID
       status: Int
       paymentUrl: String
     }
 
-    input DashboardSubscriptionsFilterByInput {
-      app: Int
+    type InvoiceableCount {
+      hasActivation: Float
+      noActivation: Float
+    }
+
+    input SubscriptionsFilterByInput {
+      app: ID
       status: Int
-      companyId: [String]
+      companyId: [ID]
       activationDateAvailability: Boolean
       activeDate: DateRangeInput
       endDate: DateRangeInput
       paymentDate: DateRangeInput
     }
 
-    input DashboardSubscriptionsSortByInput {
+    input SubscriptionsSortByInput {
       serialNumber: Sort
       companyName: Sort
       appName: Sort
@@ -96,6 +106,7 @@ const schema = createSchema({
     input InvoiceablesFilterByInput {
       status: Int
       activationDateAvailability: Boolean
+      subscriptionId: ID
     }
     
     input InvoiceablesSortByInput {
@@ -104,6 +115,14 @@ const schema = createSchema({
       activeFrom: Sort
       endAt: Sort
       netAmount: Sort
+      billingType: Sort
+      mrrType: Sort
+      status: Sort
+      invoiceStatus: Sort
+    }
+
+    input InvoiceableCountFilterByInput {
+      subscriptionId: ID
     }
 
     input DateRangeInput {

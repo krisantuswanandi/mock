@@ -26,11 +26,17 @@ const subscriptions = (
 
   // filter
   if (filterBy.app) {
-    nodes = nodes.filter((n) => n.appId === filterBy.app);
+    nodes = nodes.filter((n) => n.app.id.toString() === filterBy.app);
   }
 
   if (filterBy.status !== null) {
     nodes = nodes.filter((n) => n.status === filterBy.status);
+  }
+
+  if (filterBy.companyId?.length) {
+    nodes = nodes.filter((n) =>
+      filterBy.companyId.includes(n.companyId.toString())
+    );
   }
 
   // search

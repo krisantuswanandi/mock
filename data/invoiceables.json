@@ -5,14 +5,14 @@
     "createdAt": "2022-08-06T15:00:00Z",
     "activeFrom": "2022-08-06T15:00:00Z",
     "endAt": "2022-08-06T15:00:00Z",
-    "netAmount": 7834024,
+    "netAmount": 7834024.3190983109,
     "billingType": "Upgrade main",
     "mrrType": "Renewal",
-    "status": 0,
+    "status": 1,
     "invoices": [
       {
         "id": 1,
-        "status": 1,
+        "status": 2,
         "paymentUrl": "https://www.google.com"
       }
     ],
@@ -27,11 +27,11 @@
     "netAmount": 7834024,
     "billingType": "Upgrade main",
     "mrrType": "Renewal",
-    "status": 0,
+    "status": 1,
     "invoices": [
       {
         "id": 2,
-        "status": 1,
+        "status": 2,
         "paymentUrl": "https://www.google.com"
       }
     ],
@@ -44,9 +44,9 @@
     "activeFrom": "2022-08-06T15:00:00Z",
     "endAt": "2022-08-06T15:00:00Z",
     "netAmount": 7834024,
-    "billingType": "Upgrade main",
-    "mrrType": "Renewal",
-    "status": 0,
+    "billingType": "Upgrade additional",
+    "mrrType": "New",
+    "status": 1,
     "invoices": [
       {
         "id": 3,
@@ -63,9 +63,9 @@
     "activeFrom": "2022-08-06T15:00:00Z",
     "endAt": "2022-08-06T15:00:00Z",
     "netAmount": 7834024,
-    "billingType": "Upgrade main",
-    "mrrType": "Renewal",
-    "status": 0,
+    "billingType": "Upgrade additional",
+    "mrrType": "New",
+    "status": 1,
     "invoices": [
       {
         "id": 4,
@@ -82,9 +82,9 @@
     "activeFrom": "2022-08-06T15:00:00Z",
     "endAt": "2022-08-06T15:00:00Z",
     "netAmount": 7834024,
-    "billingType": "Upgrade main",
-    "mrrType": "Renewal",
-    "status": 0,
+    "billingType": "Upgrade additional",
+    "mrrType": "New",
+    "status": 1,
     "invoices": [
       {
         "id": 5,
@@ -101,13 +101,13 @@
     "activeFrom": "2022-08-06T15:00:00Z",
     "endAt": "2022-08-06T15:00:00Z",
     "netAmount": 7834024,
-    "billingType": "Upgrade main",
-    "mrrType": "Renewal",
-    "status": 0,
+    "billingType": "Upgrade additional",
+    "mrrType": "New",
+    "status": 4,
     "invoices": [
       {
         "id": 6,
-        "status": 1,
+        "status": 3,
         "paymentUrl": "https://www.google.com"
       }
     ],
@@ -120,13 +120,13 @@
     "activeFrom": "2022-08-06T15:00:00Z",
     "endAt": "2022-08-06T15:00:00Z",
     "netAmount": 7834024,
-    "billingType": "Upgrade main",
-    "mrrType": "Renewal",
-    "status": 0,
+    "billingType": "Upgrade additional",
+    "mrrType": "New",
+    "status": 4,
     "invoices": [
       {
         "id": 7,
-        "status": 1,
+        "status": 3,
         "paymentUrl": "https://www.google.com"
       }
     ],
@@ -139,13 +139,13 @@
     "activeFrom": "2022-08-06T15:00:00Z",
     "endAt": "2022-08-06T15:00:00Z",
     "netAmount": 7834024,
-    "billingType": "Upgrade main",
+    "billingType": "Upgrade additional",
     "mrrType": "Renewal",
-    "status": 0,
+    "status": 4,
     "invoices": [
       {
         "id": 8,
-        "status": 1,
+        "status": 3,
         "paymentUrl": "https://www.google.com"
       }
     ],
@@ -160,11 +160,11 @@
     "netAmount": 7834024,
     "billingType": "Upgrade main",
     "mrrType": "Renewal",
-    "status": 0,
+    "status": 4,
     "invoices": [
       {
         "id": 9,
-        "status": 1,
+        "status": 3,
         "paymentUrl": "https://www.google.com"
       }
     ],
@@ -179,11 +179,11 @@
     "netAmount": 7834024,
     "billingType": "Upgrade main",
     "mrrType": "Renewal",
-    "status": 0,
+    "status": 5,
     "invoices": [
       {
         "id": 10,
-        "status": 1,
+        "status": 4,
         "paymentUrl": "https://www.google.com"
       }
     ],
@@ -198,11 +198,11 @@
     "netAmount": 7834024,
     "billingType": "Upgrade main",
     "mrrType": "Renewal",
-    "status": 0,
+    "status": 5,
     "invoices": [
       {
         "id": 11,
-        "status": 1,
+        "status": 4,
         "paymentUrl": "https://www.google.com"
       }
     ],
@@ -217,14 +217,59 @@
     "netAmount": 7834024,
     "billingType": "Upgrade main",
     "mrrType": "Renewal",
-    "status": 0,
+    "status": 5,
     "invoices": [
       {
         "id": 12,
-        "status": 1,
+        "status": 4,
         "paymentUrl": "https://www.google.com"
       }
     ],
     "salesOrderId": 12
+  },
+  {
+    "id": 13,
+    "serialNumber": "BPI/2022/08/00489",
+    "createdAt": "2022-08-06T15:00:00Z",
+    "activeFrom": "",
+    "endAt": "",
+    "netAmount": 7834024,
+    "billingType": "New subscription",
+    "mrrType": "New",
+    "status": 0,
+    "invoices": [],
+    "salesOrderId": 13
+  },
+  {
+    "id": 14,
+    "serialNumber": "BPI/2022/08/00489",
+    "createdAt": "2022-08-06T15:00:00Z",
+    "activeFrom": "",
+    "endAt": "",
+    "netAmount": 7834024,
+    "billingType": "New subscription",
+    "mrrType": "New",
+    "status": 2,
+    "invoices": [
+      {
+        "id": 14,
+        "status": 0,
+        "paymentUrl": "https://www.google.com"
+      }
+    ],
+    "salesOrderId": 14
+  },
+  {
+    "id": 15,
+    "serialNumber": "BPI/2022/08/00489",
+    "createdAt": "2022-08-06T15:00:00Z",
+    "activeFrom": "",
+    "endAt": "",
+    "netAmount": 7834024,
+    "billingType": "Free subscription",
+    "mrrType": "New",
+    "status": 3,
+    "invoices": null,
+    "salesOrderId": 15
   }
 ]

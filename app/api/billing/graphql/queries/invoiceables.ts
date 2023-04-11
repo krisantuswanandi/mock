@@ -11,7 +11,10 @@ const invoiceables = (
   if (sortBy) {
     Object.keys(sortBy).forEach((id) => {
       if (id !== "appName") {
-        const attr = id as keyof (typeof nodes)[number];
+        type RawAttr = keyof (typeof nodes)[number];
+        type Attr = Exclude<RawAttr, "invoices">;
+
+        const attr = id as Attr;
         const dir = sortBy[id] === "ASC" ? -1 : 1;
 
         nodes.sort((a, b) => {
@@ -28,15 +31,21 @@ const invoiceables = (
   }
 
   // filter
+  if (filterBy.activationDateAvailability) {
+    nodes = nodes.filter((n) => n.activeFrom !== "");
+  } else {
+    nodes = nodes.filter((n) => n.activeFrom === "");
+  }
+
   if (filterBy.status) {
     nodes = nodes.filter((n) => n.status === filterBy.status);
   }
 
   if (filterBy.invoiceStatus) {
     nodes = nodes.filter((n) => {
-      if (!n.invoices.length) return false;
+      if (!n.invoices || !n.invoices.length) return false;
 
-      return n.invoices[0].status === filterBy.invoiceStatus;
+      return n?.invoices[0].status === filterBy.invoiceStatus;
     });
   }
 
