@@ -105,6 +105,7 @@ const schema = createSchema({
 
     input InvoiceablesFilterByInput {
       status: Int
+      invoiceStatus: Int
       activationDateAvailability: Boolean
       subscriptionId: ID
     }
