@@ -28,10 +28,21 @@ const schema = createSchema({
       activeFrom: String
       endAt: String
       status: Int
+      packageQuotas: [PackageQuota]
+      addOns: [AddOn]
     }
 
     type SubscribedPackage {
       id: ID
+      name: String
+    }
+
+    type PackageQuota {
+      category: String
+      quantity: Float
+    }
+
+    type AddOn {
       name: String
     }
     

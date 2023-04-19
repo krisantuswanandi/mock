@@ -13,9 +13,31 @@
       "id": 1,
       "name": "Starter"
     },
-    "activeFrom": "2019-01-01T10:34:00Z",
-    "endAt": "2020-01-01T10:34:00Z",
-    "status": 3
+    "activeFrom": "2019-01-01",
+    "endAt": "2023-04-01",
+    "status": 3,
+    "packageQuotas": [
+      {
+        "category": "users",
+        "quantity": 7
+      },
+      {
+        "category": "warehouse",
+        "quantity": 3
+      },
+      {
+        "category": "sales invoice",
+        "quantity": 6
+      }
+    ],
+    "addOns": [
+      {
+        "name": "Advanced invoicing"
+      },
+      {
+        "name": "Profitability report"
+      }
+    ]
   },
   {
     "id": 2,
@@ -31,9 +53,20 @@
       "id": 1,
       "name": "Enterprise"
     },
-    "activeFrom": "2021-01-01T10:34:00Z",
+    "activeFrom": "2021-01-01",
     "endAt": "",
-    "status": 1
+    "status": 1,
+    "packageQuotas": [
+      {
+        "category": "users",
+        "quantity": 7
+      },
+      {
+        "category": "warehouse",
+        "quantity": 3
+      }
+    ],
+    "addOns": []
   },
   {
     "id": 3,
@@ -49,9 +82,27 @@
       "id": 1,
       "name": "Trial Enterprise Plus"
     },
-    "activeFrom": "2022-08-01T10:34:00Z",
-    "endAt": "2022-08-31T10:34:00Z",
-    "status": 0
+    "activeFrom": "2022-08-01",
+    "endAt": "2023-05-23",
+    "status": 0,
+    "packageQuotas": [
+      {
+        "category": "users",
+        "quantity": 7
+      },
+      {
+        "category": "warehouse",
+        "quantity": 3
+      }
+    ],
+    "addOns": [
+      {
+        "name": "Advanced invoicing"
+      },
+      {
+        "name": "Profitability report"
+      }
+    ]
   },
   {
     "id": 4,
@@ -67,9 +118,20 @@
       "id": 1,
       "name": "Enterprise Plus"
     },
-    "activeFrom": "2023-01-01T10:34:00Z",
-    "endAt": "2024-01-01T10:34:00Z",
-    "status": 2
+    "activeFrom": "2022-01-01",
+    "endAt": "2023-04-16",
+    "status": 2,
+    "packageQuotas": [
+      {
+        "category": "users",
+        "quantity": 7
+      },
+      {
+        "category": "sales invoice",
+        "quantity": 6
+      }
+    ],
+    "addOns": []
   },
   {
     "id": 5,
@@ -85,9 +147,27 @@
       "id": 1,
       "name": "Enterprise Plus"
     },
-    "activeFrom": "2023-01-01T10:34:00Z",
-    "endAt": "2024-01-01T10:34:00Z",
-    "status": 2
+    "activeFrom": "2022-01-01",
+    "endAt": "2023-01-01",
+    "status": 2,
+    "packageQuotas": [
+      {
+        "category": "users",
+        "quantity": 7
+      },
+      {
+        "category": "sales invoice",
+        "quantity": 6
+      }
+    ],
+    "addOns": [
+      {
+        "name": "Advanced invoicing"
+      },
+      {
+        "name": "Profitability report"
+      }
+    ]
   },
   {
     "id": 6,
@@ -105,7 +185,18 @@
     },
     "activeFrom": "",
     "endAt": "",
-    "status": 2
+    "status": 2,
+    "packageQuotas": [
+      {
+        "category": "warehouse",
+        "quantity": 3
+      },
+      {
+        "category": "sales invoice",
+        "quantity": 6
+      }
+    ],
+    "addOns": []
   },
   {
     "id": 7,
@@ -121,9 +212,23 @@
       "id": 1,
       "name": "Enterprise Plus"
     },
-    "activeFrom": "2023-01-01T10:34:00Z",
-    "endAt": "2024-01-01T10:34:00Z",
-    "status": 2
+    "activeFrom": "2022-01-01",
+    "endAt": "2023-01-01",
+    "status": 2,
+    "packageQuotas": [
+      {
+        "category": "users",
+        "quantity": 7
+      }
+    ],
+    "addOns": [
+      {
+        "name": "Advanced invoicing"
+      },
+      {
+        "name": "Profitability report"
+      }
+    ]
   },
   {
     "id": 8,
@@ -139,9 +244,27 @@
       "id": 1,
       "name": "Enterprise Plus"
     },
-    "activeFrom": "2023-01-01T10:34:00Z",
-    "endAt": "2024-01-01T10:34:00Z",
-    "status": 2
+    "activeFrom": "2022-01-01",
+    "endAt": "2023-01-01",
+    "status": 2,
+    "packageQuotas": [
+      {
+        "category": "users",
+        "quantity": 7
+      },
+      {
+        "category": "warehouse",
+        "quantity": 3
+      }
+    ],
+    "addOns": [
+      {
+        "name": "Advanced invoicing"
+      },
+      {
+        "name": "Profitability report"
+      }
+    ]
   },
   {
     "id": 9,
@@ -157,9 +280,16 @@
       "id": 1,
       "name": "Enterprise Plus"
     },
-    "activeFrom": "2023-01-01T10:34:00Z",
-    "endAt": "2024-01-01T10:34:00Z",
-    "status": 2
+    "activeFrom": "2022-01-01",
+    "endAt": "2023-01-01",
+    "status": 2,
+    "packageQuotas": [
+      {
+        "category": "sales invoice",
+        "quantity": 6
+      }
+    ],
+    "addOns": []
   },
   {
     "id": 10,
@@ -175,9 +305,23 @@
       "id": 1,
       "name": "Enterprise Plus"
     },
-    "activeFrom": "2023-01-01T10:34:00Z",
-    "endAt": "2024-01-01T10:34:00Z",
-    "status": 2
+    "activeFrom": "2022-01-01",
+    "endAt": "2023-01-01",
+    "status": 2,
+    "packageQuotas": [
+      {
+        "category": "users",
+        "quantity": 7
+      }
+    ],
+    "addOns": [
+      {
+        "name": "Advanced invoicing"
+      },
+      {
+        "name": "Profitability report"
+      }
+    ]
   },
   {
     "id": 11,
@@ -193,9 +337,20 @@
       "id": 1,
       "name": "Enterprise Plus"
     },
-    "activeFrom": "2023-01-01T10:34:00Z",
-    "endAt": "2024-01-01T10:34:00Z",
-    "status": 2
+    "activeFrom": "2022-01-01",
+    "endAt": "2023-01-01",
+    "status": 2,
+    "packageQuotas": [
+      {
+        "category": "warehouse",
+        "quantity": 3
+      },
+      {
+        "category": "sales invoice",
+        "quantity": 6
+      }
+    ],
+    "addOns": []
   },
   {
     "id": 12,
@@ -211,9 +366,31 @@
       "id": 1,
       "name": "Enterprise Plus"
     },
-    "activeFrom": "2023-01-01T10:34:00Z",
-    "endAt": "2024-01-01T10:34:00Z",
-    "status": 2
+    "activeFrom": "2022-01-01",
+    "endAt": "2023-01-01",
+    "status": 2,
+    "packageQuotas": [
+      {
+        "category": "users",
+        "quantity": 7
+      },
+      {
+        "category": "warehouse",
+        "quantity": 3
+      },
+      {
+        "category": "sales invoice",
+        "quantity": 6
+      }
+    ],
+    "addOns": [
+      {
+        "name": "Advanced invoicing"
+      },
+      {
+        "name": "Profitability report"
+      }
+    ]
   },
   {
     "id": 13,
@@ -229,9 +406,24 @@
       "id": 1,
       "name": "Enterprise Plus"
     },
-    "activeFrom": "2023-01-01T10:34:00Z",
-    "endAt": "2024-01-01T10:34:00Z",
-    "status": 2
+    "activeFrom": "2022-01-01",
+    "endAt": "2023-01-01",
+    "status": 2,
+    "packageQuotas": [
+      {
+        "category": "users",
+        "quantity": 7
+      },
+      {
+        "category": "warehouse",
+        "quantity": 3
+      },
+      {
+        "category": "sales invoice",
+        "quantity": 6
+      }
+    ],
+    "addOns": []
   },
   {
     "id": 14,
@@ -247,9 +439,31 @@
       "id": 1,
       "name": "Enterprise Plus"
     },
-    "activeFrom": "2023-01-01T10:34:00Z",
-    "endAt": "2024-01-01T10:34:00Z",
-    "status": 2
+    "activeFrom": "2022-01-01",
+    "endAt": "2023-01-01",
+    "status": 2,
+    "packageQuotas": [
+      {
+        "category": "users",
+        "quantity": 7
+      },
+      {
+        "category": "warehouse",
+        "quantity": 3
+      },
+      {
+        "category": "sales invoice",
+        "quantity": 6
+      }
+    ],
+    "addOns": [
+      {
+        "name": "Advanced invoicing"
+      },
+      {
+        "name": "Profitability report"
+      }
+    ]
   },
   {
     "id": 15,
@@ -265,9 +479,24 @@
       "id": 1,
       "name": "Enterprise Plus"
     },
-    "activeFrom": "2023-01-01T10:34:00Z",
-    "endAt": "2024-01-01T10:34:00Z",
-    "status": 2
+    "activeFrom": "2022-01-01",
+    "endAt": "2023-01-01",
+    "status": 2,
+    "packageQuotas": [
+      {
+        "category": "users",
+        "quantity": 7
+      },
+      {
+        "category": "warehouse",
+        "quantity": 3
+      },
+      {
+        "category": "sales invoice",
+        "quantity": 6
+      }
+    ],
+    "addOns": []
   },
   {
     "id": 16,
@@ -283,9 +512,31 @@
       "id": 1,
       "name": "Enterprise Plus"
     },
-    "activeFrom": "2023-01-01T10:34:00Z",
-    "endAt": "2024-01-01T10:34:00Z",
-    "status": 2
+    "activeFrom": "2022-01-01",
+    "endAt": "2023-01-01",
+    "status": 2,
+    "packageQuotas": [
+      {
+        "category": "users",
+        "quantity": 7
+      },
+      {
+        "category": "warehouse",
+        "quantity": 3
+      },
+      {
+        "category": "sales invoice",
+        "quantity": 6
+      }
+    ],
+    "addOns": [
+      {
+        "name": "Advanced invoicing"
+      },
+      {
+        "name": "Profitability report"
+      }
+    ]
   },
   {
     "id": 17,
@@ -301,9 +552,31 @@
       "id": 1,
       "name": "Enterprise Plus"
     },
-    "activeFrom": "2023-01-01T10:34:00Z",
-    "endAt": "2024-01-01T10:34:00Z",
-    "status": 2
+    "activeFrom": "2022-01-01",
+    "endAt": "2023-01-01",
+    "status": 2,
+    "packageQuotas": [
+      {
+        "category": "users",
+        "quantity": 7
+      },
+      {
+        "category": "warehouse",
+        "quantity": 3
+      },
+      {
+        "category": "sales invoice",
+        "quantity": 6
+      }
+    ],
+    "addOns": [
+      {
+        "name": "Advanced invoicing"
+      },
+      {
+        "name": "Profitability report"
+      }
+    ]
   },
   {
     "id": 18,
@@ -319,9 +592,24 @@
       "id": 1,
       "name": "Enterprise Plus"
     },
-    "activeFrom": "2023-01-01T10:34:00Z",
-    "endAt": "2024-01-01T10:34:00Z",
-    "status": 2
+    "activeFrom": "2022-01-01",
+    "endAt": "2023-01-01",
+    "status": 2,
+    "packageQuotas": [
+      {
+        "category": "users",
+        "quantity": 7
+      },
+      {
+        "category": "warehouse",
+        "quantity": 3
+      },
+      {
+        "category": "sales invoice",
+        "quantity": 6
+      }
+    ],
+    "addOns": []
   },
   {
     "id": 19,
@@ -337,9 +625,31 @@
       "id": 1,
       "name": "Enterprise Plus"
     },
-    "activeFrom": "2023-01-01T10:34:00Z",
-    "endAt": "2024-01-01T10:34:00Z",
-    "status": 2
+    "activeFrom": "2022-01-01",
+    "endAt": "2023-01-01",
+    "status": 2,
+    "packageQuotas": [
+      {
+        "category": "users",
+        "quantity": 7
+      },
+      {
+        "category": "warehouse",
+        "quantity": 3
+      },
+      {
+        "category": "sales invoice",
+        "quantity": 6
+      }
+    ],
+    "addOns": [
+      {
+        "name": "Advanced invoicing"
+      },
+      {
+        "name": "Profitability report"
+      }
+    ]
   },
   {
     "id": 20,
@@ -355,9 +665,24 @@
       "id": 1,
       "name": "Enterprise Plus"
     },
-    "activeFrom": "2023-01-01T10:34:00Z",
-    "endAt": "2024-01-01T10:34:00Z",
-    "status": 2
+    "activeFrom": "2022-01-01",
+    "endAt": "2023-01-01",
+    "status": 2,
+    "packageQuotas": [
+      {
+        "category": "users",
+        "quantity": 7
+      },
+      {
+        "category": "warehouse",
+        "quantity": 3
+      },
+      {
+        "category": "sales invoice",
+        "quantity": 6
+      }
+    ],
+    "addOns": []
   },
   {
     "id": 21,
@@ -373,9 +698,31 @@
       "id": 1,
       "name": "Enterprise Plus"
     },
-    "activeFrom": "2023-01-01T10:34:00Z",
-    "endAt": "2024-01-01T10:34:00Z",
-    "status": 2
+    "activeFrom": "2022-01-01",
+    "endAt": "2023-01-01",
+    "status": 2,
+    "packageQuotas": [
+      {
+        "category": "users",
+        "quantity": 7
+      },
+      {
+        "category": "warehouse",
+        "quantity": 3
+      },
+      {
+        "category": "sales invoice",
+        "quantity": 6
+      }
+    ],
+    "addOns": [
+      {
+        "name": "Advanced invoicing"
+      },
+      {
+        "name": "Profitability report"
+      }
+    ]
   },
   {
     "id": 22,
@@ -391,9 +738,24 @@
       "id": 1,
       "name": "Enterprise Plus"
     },
-    "activeFrom": "2023-01-01T10:34:00Z",
-    "endAt": "2024-01-01T10:34:00Z",
-    "status": 2
+    "activeFrom": "2022-01-01",
+    "endAt": "2023-01-01",
+    "status": 2,
+    "packageQuotas": [
+      {
+        "category": "users",
+        "quantity": 7
+      },
+      {
+        "category": "warehouse",
+        "quantity": 3
+      },
+      {
+        "category": "sales invoice",
+        "quantity": 6
+      }
+    ],
+    "addOns": []
   },
   {
     "id": 23,
@@ -409,9 +771,31 @@
       "id": 1,
       "name": "Enterprise Plus"
     },
-    "activeFrom": "2023-01-01T10:34:00Z",
-    "endAt": "2024-01-01T10:34:00Z",
-    "status": 2
+    "activeFrom": "2022-01-01",
+    "endAt": "2023-01-01",
+    "status": 2,
+    "packageQuotas": [
+      {
+        "category": "users",
+        "quantity": 7
+      },
+      {
+        "category": "warehouse",
+        "quantity": 3
+      },
+      {
+        "category": "sales invoice",
+        "quantity": 6
+      }
+    ],
+    "addOns": [
+      {
+        "name": "Advanced invoicing"
+      },
+      {
+        "name": "Profitability report"
+      }
+    ]
   },
   {
     "id": 24,
@@ -427,9 +811,24 @@
       "id": 1,
       "name": "Enterprise Plus"
     },
-    "activeFrom": "2023-01-01T10:34:00Z",
-    "endAt": "2024-01-01T10:34:00Z",
-    "status": 2
+    "activeFrom": "2022-01-01",
+    "endAt": "2023-01-01",
+    "status": 2,
+    "packageQuotas": [
+      {
+        "category": "users",
+        "quantity": 7
+      },
+      {
+        "category": "warehouse",
+        "quantity": 3
+      },
+      {
+        "category": "sales invoice",
+        "quantity": 6
+      }
+    ],
+    "addOns": []
   },
   {
     "id": 25,
@@ -445,9 +844,31 @@
       "id": 1,
       "name": "Enterprise Plus"
     },
-    "activeFrom": "2023-01-01T10:34:00Z",
-    "endAt": "2024-01-01T10:34:00Z",
-    "status": 2
+    "activeFrom": "2022-01-01",
+    "endAt": "2023-01-01",
+    "status": 2,
+    "packageQuotas": [
+      {
+        "category": "users",
+        "quantity": 7
+      },
+      {
+        "category": "warehouse",
+        "quantity": 3
+      },
+      {
+        "category": "sales invoice",
+        "quantity": 6
+      }
+    ],
+    "addOns": [
+      {
+        "name": "Advanced invoicing"
+      },
+      {
+        "name": "Profitability report"
+      }
+    ]
   },
   {
     "id": 26,
@@ -463,9 +884,24 @@
       "id": 1,
       "name": "Enterprise Plus"
     },
-    "activeFrom": "2023-01-01T10:34:00Z",
-    "endAt": "2024-01-01T10:34:00Z",
-    "status": 2
+    "activeFrom": "2022-01-01",
+    "endAt": "2023-01-01",
+    "status": 2,
+    "packageQuotas": [
+      {
+        "category": "users",
+        "quantity": 7
+      },
+      {
+        "category": "warehouse",
+        "quantity": 3
+      },
+      {
+        "category": "sales invoice",
+        "quantity": 6
+      }
+    ],
+    "addOns": []
   },
   {
     "id": 27,
@@ -481,9 +917,31 @@
       "id": 1,
       "name": "Enterprise Plus"
     },
-    "activeFrom": "2023-01-01T10:34:00Z",
-    "endAt": "2024-01-01T10:34:00Z",
-    "status": 2
+    "activeFrom": "2022-01-01",
+    "endAt": "2023-01-01",
+    "status": 2,
+    "packageQuotas": [
+      {
+        "category": "users",
+        "quantity": 7
+      },
+      {
+        "category": "warehouse",
+        "quantity": 3
+      },
+      {
+        "category": "sales invoice",
+        "quantity": 6
+      }
+    ],
+    "addOns": [
+      {
+        "name": "Advanced invoicing"
+      },
+      {
+        "name": "Profitability report"
+      }
+    ]
   },
   {
     "id": 28,
@@ -499,8 +957,23 @@
       "id": 1,
       "name": "Enterprise Plus"
     },
-    "activeFrom": "2023-01-01T10:34:00Z",
-    "endAt": "2024-01-01T10:34:00Z",
-    "status": 2
+    "activeFrom": "2022-01-01",
+    "endAt": "2023-01-01",
+    "status": 2,
+    "packageQuotas": [
+      {
+        "category": "users",
+        "quantity": 7
+      },
+      {
+        "category": "warehouse",
+        "quantity": 3
+      },
+      {
+        "category": "sales invoice",
+        "quantity": 6
+      }
+    ],
+    "addOns": []
   }
 ]
