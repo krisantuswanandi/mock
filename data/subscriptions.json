@@ -18,16 +18,8 @@
     "status": 3,
     "packageQuotas": [
       {
-        "category": "users",
-        "quantity": 7
-      },
-      {
-        "category": "warehouse",
-        "quantity": 3
-      },
-      {
-        "category": "sales invoice",
-        "quantity": 6
+        "category": "employees",
+        "quantity": 100
       }
     ],
     "addOns": [
@@ -58,12 +50,8 @@
     "status": 1,
     "packageQuotas": [
       {
-        "category": "users",
-        "quantity": 7
-      },
-      {
-        "category": "warehouse",
-        "quantity": 3
+        "category": "employees",
+        "quantity": 50
       }
     ],
     "addOns": []
