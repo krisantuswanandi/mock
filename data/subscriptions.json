@@ -4,7 +4,7 @@
     "serialNumber": "MS-22070000001",
     "companyBrandName": "Inovasi Semesta",
     "companyName": "PT. Inovasi Semesta",
-    "companyId": "192501",
+    "companyId": "",
     "app": {
       "id": 1,
       "name": "Talenta"
@@ -109,16 +109,7 @@
     "activeFrom": "2022-01-01",
     "endAt": "2023-04-16",
     "status": 2,
-    "packageQuotas": [
-      {
-        "category": "users",
-        "quantity": 7
-      },
-      {
-        "category": "sales invoice",
-        "quantity": 6
-      }
-    ],
+    "packageQuotas": [],
     "addOns": []
   },
   {
